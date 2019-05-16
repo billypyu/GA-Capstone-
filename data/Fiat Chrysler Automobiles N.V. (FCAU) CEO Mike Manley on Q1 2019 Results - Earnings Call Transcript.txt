@@ -1,0 +1,609 @@
+Fiat Chrysler Automobiles N.V. (FCAU) CEO Mike Manley on Q1 2019 Results - Earnings Call Transcript
+May 3, 2019 2:01 PM ET |
+About: Fiat Chrysler Automobiles N.V. (FCAU)
+Q1: 05-03-19 Earnings Summary
+
+Press Release
+
+    Slides
+
+EPS of $0.40318064732892821145 misses by $-0.08
+Revenue of $27.42B (-16.20% Y/Y) misses by $-902.01M
+Subscribers Only
+Earning Call Audio
+
+Fiat Chrysler Automobiles N.V. (NYSE:FCAU) Q1 2019 Results Earnings Conference Call May 3, 2019 8:00 AM ET
+
+Company Participants
+
+Joe Veltri - Head, FCA Global Investor Relations
+
+Mike Manley - Chief Executive Officer
+
+Richard Palmer - Chief Financial Officer
+
+Conference Call Participants
+
+Patrick Hummel - UBS
+
+John Murphy - Bank of America.
+
+Brian Johnson - Barclays
+
+Dominic O'Brien - Exane
+
+Adam Jones - Morgan Stanley
+
+Demian Flowers - Commerzbank
+
+Martino De Ambroggi - Equita
+
+Giulio Pescatore - HSBC
+
+Jose Asumendi - JPMorgan
+
+Operator
+
+Good afternoon or good morning, ladies and gentlemen, and welcome to today's Fiat Chrysler Automobiles 2019 First Quarter Results Webcast and Conference Call. For your information, today's conference is being recorded.
+
+At this time, I would like to turn over to Mr. Joe Veltri, Head of FCA Global Investor Relations. Mr. Veltri, please go ahead, sir.
+
+Joe Veltri
+
+Thank you, Simon, and welcome to everyone who is joining us today as we review FCA's first quarter 2019 financial results. You'll find today's presentation material, along with the related earnings press release that was issued earlier today posted under the Investors section of FCA's group website.
+
+Our call today will be hosted by Mike Manley, the group's Chief Executive Officer; and Mr. Richard Palmer, the group’s Chief Financial Officer. After their presentation, we will be holding the customary question-and-answer session.
+
+However, before we begin, I want to point out that any forward-looking statement that might be made during today's call are subject to the risks and uncertainties that are mentioned on page two of today’s presentation in the Safe Harbor statement and that this call will be governed by that language.
+
+With that, I am going to turn the call over to Mike.
+
+Mike Manley
+
+Yeah. Good morning, good afternoon, everyone. Thank you, Joe. Despite the large number of moving pieces in the first quarter our group results were in line with our expectations and the previous guidance that we gave in February. I'm going to walk you through the operation elements of the business and then Richard will take you through the financials.
+
+Now as you know yesterday we closed the Magneti Marelli transaction and I'd like to start by thanking the teams from Calsonic and Magneti for bringing the deal to a smooth conclusion. And those of you have been involved in a transaction like this know just how much work goes into reaching this point. And this has now created one of the world's largest independent automotive suppliers. And I can tell you I'm excited for the new company.
+
+Now FCA received cash proceeds of €5.8 billion euro and including pension liabilities transferred the overall transaction value to FCA with over €6 billion, which was in line with Richard's estimates provided last year.
+
+We can currently announce the approval of an extraordinary dividend of €1.30 per share which represents a total distribution to our shareholders for just over €2 billion which will be paid on May 30th.
+
+So now let me turn to the business and have a quick look at some of the other highlights from the quarter. The launch of the all-new RAM heavy duty pickup is underway and production is ramping up as planned. That's actually slightly ahead of plan. We expect this vehicle to build on the positive momentum we have in the truck business in North America.
+
+We also announced the investments to facilitate the launch of the next generation Grand Cherokee and two new whitespace products for the Jeep brand and these vehicles will enter high margin segments and will start production late 2020 early 2021.
+
+The Jeep Renegade and compass plug in hybrid vehicles were revealed at the Geneva Auto Show in March and these will start production early 2020 and represent the initial ramp up of high voltage vehicles for our European fleet and they'll be followed by the all new Fiat 500 bat and ten additional launches of heavy - heavily electrified vehicles over the following two years.
+
+Now in line with our previously announced compliance strategy for both the US and EMEA, we also executed agreements to buy regulatory credits. These credit purchases are designed to minimize FCAs cost to compliance and provide us with a strong hedge against the potential for a lower price recovery in the market than the cost of the technology.
+
+Now this is a complementary action to our continued investment, development and deployment of our electrified fleet which will reach 17 nameplates by 2022 and it will bridge the period until we see the combination of market acceptance, technology cost and infrastructure development reaching the point that makes sales of heavily electrified vehicles more financially rational. The cost of these combined actions was envisaged and embedded in our guidance and our business plan.
+
+Now the development of our electrified ferry is well underway and will build on our proven capabilities because as you know we currently have the seventh highest selling - and the fourth highest selling plug in hybrid in mainstream segments within North America.
+
+So now I'd like to turn to the commercial performance of the business. Sales volume in North America was slightly down year-over-year, driven in the main by reductions in our Chrysler and Dodge brands, particularly in passenger car and minivan.
+
+Volume in our Jeep brand remained in line with the segment movements with the exception of Renegade where we chose to improve price rather than chase share. Ram continued its momentum in the quarter increasing total volume by over 200,00 units which enabled the brand to capture the number two position in the coveted us full sized truck segment.
+
+Ram heavy duty gained 1.4 points of total share and a significant 4.8 points of retail share. So I don’t think its bad for a vehicle that's just about to be replaced. Ram 1500 is also performing particularly well gaining 4.5 points of total share and 4 points of retail share and transaction prices are up 10% year-over-year.
+
+In Asia Pacific volume was down reflecting continued challenges in China where we experienced further industry contraction, as well as significant competition in our segments.
+
+Light commercial vehicle volume in EMEA reflected the return to normal seasonality in the RV business which traditionally peaks in the second quarter and lower sales in Turkey whereas you know the market is down around 45%.
+
+Passenger car volumes were down primarily as a result of discontinued models and the decision we have made to reduce dependence on low margin channels in the main central zero kilometre sales. We're already seeing the results of this move with improvements in our dealer retail channel which will have increasing benefits during the year.
+
+In Latin America our sales volume and share was up reflecting continued improvement in the Brazilian market more than offsetting the weakness in Argentina. Before Richard takes you through the financials, I want to give you a quick group overview.
+
+Our total shipments for the quarter were down by about 150,000 units. This was expected as we would not benefit from overlapping production of old and new Wrangler. In addition, we plan for our Toledo South plant to be down in preparation for the all-new Jeep Gladiator and the ramp up of the new heavy duty and these are largely behind us. Heavy duty ramp up is on schedule and Gladiator production is underway and slightly ahead of our expectations.
+
+Now you'll see significant focus on improving net price and reducing costs. These actions are being progressively embedded in our brands and operating units and we’ll clearly benefit from these. During the remainder of the year, the shipment volume ramps up.
+
+Now in China, we've made progress to address our operating performance. We've recently announced actions to streamline our joint venture structure and bring in new experienced leadership.
+
+Our cost reduction and quality efforts are making good progress. We now need to regain sales traction and continue to work on our product portfolio. So the market remains a work in progress, but I think we have a clear understanding of what needs to be done.
+
+When I think about China though, we do expect the market to see significant price impression the second and third quarters as the industry transitions to China six standards. But our expectation is the region will show a significant improvement over last year.
+
+In EMEA we face a number of headwinds due to negative market pricing, adverse exchange rates and higher compliance costs, including the incorporation of our new powertrain technologies. We've made progress, reduced our inventory with data stocks down 13,000 units. So more to be done, but good progress so far and the effects of improving our channel makes us more than offset by the volume shipments increase will come through to the bottom line.
+
+We have our compliance costs contained and other restructuring actions will progressively yield benefits throughout the year. And our expectation is subsequent quarters will see a return to profitability with the region recovering to around a 3% margin by the fourth quarter.
+
+Now the Tam post another solid quarter with Brazil and rest of the Tam offset in the significant headwinds from Argentina, and that team there also continues to focus on net price and cost, and with Brazil expected to be strong for the remainder of the year, we think the Tam strong performance will continue.
+
+Lastly, let me talk about Maserati. Maserati had a tough quarter and for us regaining sales momentum is our key focus. So we have now bought in additional marketing and sales resources to help the brand do that. What's clear is with the luxury brand rebuilding a sales pipeline takes longer than a mass market brand. But we are seeing positive signs that sales are recovering.
+
+China will continue to be a drag though as we transition to China 6, during the second and third quarter as I previously mentioned. But we're also making good progress on improvement of our vehicle margins in North America and in EMEA.
+
+The first half will be a low point in Maserati’s performance with improvements coming in the second half. So when I stand back and look at the underlying strength in North America the actions in EMEA to address performance and the continued strength in the Tam, we expect to see sequential quarters improving throughout the year and as a result we have confidence in our guidance and believe that 2019 will be another solid year for FCA.
+
+So with that, I'm going to hand over to Richard. Richard?
+
+Richard Palmer
+
+Thank you, Mike. So focusing for a second on page six. As Mike mentioned, Q1 financials were in line with our expectations. Our shipments were down 14% although our sales were only down 8%. So as we continue to focus on our dealer inventory reduction activities.
+
+Adjusted EBIT was $1.1 billion and margin was down to 4.4, with positive North America performance, while APAC, EMEA Maserati continue to be challenging. Our adjusted net profit was down 41% to $570 million with finance charges down 15% to around $250 million, as we continue to benefit from reductions in our gross debt levels. With that improvement in finance charges more than offset by a higher tax rate for the quarter at about 31% and a adjusted tax level with a 10% - 10 point increase compared to last year due to - and some planning actions we had last year and also to the balance sheet re-measurement of a deferred tax liability that we have in our Mexican operations, which is re-measured at quarter end and was impacted by the peso, dollar volatility. Frankly we would expect that potentially to come back through the year. And we still expect the full year adjusted tax rate to be around the 25% we indicated on our last call.
+
+Industrial free cash flow was negative just short of €300 million, which was worse performance than prior year, but prior did benefit from positive working capital impacts of the ramp up of our Toledo North facility for the new Wrangler and our new light duty track.
+
+So I am just changing mic, my apologies. I hope this sounds better. So as I was saying our industrial free cash flow was impacted from a year-over-year comparison point of view by the launches that we were ramping up last year.
+
+Our seasonal cash flow in Q1 is normally negative as you know due to the ramp up over the plants after the year shut down, particularly in the US. So from a cash flow point of view 300 million negative was it was a good performance for the start of the year.
+
+Our liquidity was down by 0.3 billion of free cash flow from continuing operations, it was also impacted by negative cash flow from discontinued operations from Marelli as the business itself had had some negative cash flow performance and we also had some working capital impacts as we work through the closing process.
+
+So for the quarter that was nearly 0.5 billion. We expect to come - that to come back through the closed April to that 400 million and the final - the final closing at the end of April will involve some level of equalization for working capital, so based on current numbers we expect to get net proceeds to offset some of that negative working capital.
+
+Moving to page seven. We show the group adjusted EBIT by operational driver. As we mentioned our volume was down 150,000 units due to the non-repeat of the Wrangler overlap in Q1 of last year and the Ram heavy duty launch process in North America, together with other segments down due to continuing transition process for the commercial activities in EMEA and reduce sales performance in Maserati.
+
+Price was positive in both North America and Latin America. Our industrial cost performance improved significantly due to net direct material savings. Reduced launch and logistics costs particularly in America offset by increased product costs for the Ram new heavy duty and increased compliance costs mainly in North America and in EMEA.
+
+SG&A was also down due to actions in all regions, particularly in North America. And as mentioned by Mike, we are talking about our compliance strategy. We did enter into various agreements in the quarter to ensure that we have access to regulatory credits to complement our vehicle launch strategy towards meeting emissions compliance in EMEA and NAFTA going forward.
+
+So the total commitment under those - under those contracts is about €1.8 billion, which will be spent over the next three years. Last year we had cash outlays between credits and compliance payments of about €600 million included in our cash flow.
+
+We expect 2019 number to be moderately up from there. And we think it's important that we have managed to secure these credits which we believe to be very economic way of complementing our compliance strategy through the launch of the electric vehicles that Mike mentioned.
+
+Moving to page eight, we look at our industrial free cash flow. As I mentioned, we had a good performance minimizing the outflows to 270 million in a seasonally negative quarter. The EBITDA was down due to the impacts we already discussed on the income statement. CapEx was 1.4 billion, slightly up year-over-year and consistent with our full year forecast of around €8.5 billion euros.
+
+Working capital was negative 700 million, driven by increased inventory as plants ramped up after the year shutdown and negative impacts on working capital on provisions compared to last year were driven by lower volumes, mainly in NAFTA which we would expect to recover as we start to launch the Gladiator and the heavy duty going into second quarter.
+
+As I mentioned, we reduced our financial charges by about 50 million and cash taxes were also lower in this quarter by about 120 million due to the timing of payments particularly in North America. Our full year cash taxes are expected to be in line with last year about 700 million.
+
+From a balance sheet point of view, we closed the quarter with a net industrial debt position of 0.3 billion, including Marelli, if we exclude Marelli that actually is an industrial cash position of 0.4 billion and that clearly includes the impacts I mentioned in terms of industrial free cash flow and cash flow from discontinued operations, but also includes the impact of IFRS 16 which on our continuing operations is €1.1 billion and our Marelli was €0.2 billion.
+
+Page nine just shows the year-over-year comparison of adjusted EBIT by regions and I'll go to the following pages to review each segments performance. Page 10 shows North America, shipments were down 14% or 90,000 units use, due to non repeat of the overlapping Wrangler versions for 45,000 units and the Ram heavy duty loans for 13,000 units.
+
+Chrysler and Dodge brands were down 19 and 12,000 units respectively with Ram up 13,000. Our total North American dealer stock was down around 10,000 units from year end compared to an increase last year in Q1 of about 50,000
+
+US retail day sales of dealer inventory were 91 days in line with our year end number. Revenues were down 2% with positive FX impact and some positive pricing offsetting most of this shipment decrease.
+
+Our adjusted EBIT was heavily impacted by lower volumes and also more fleet mix which impacted our income statement for the quarter, which we would expect to improve going into Q2. However, we did have a very strong performance on price and on cost, in industrial cost and in SG&A which allowed us to offset a large part of the volume impact.
+
+If we look at the industrial cost and performance positive 176 million, we had positive performance in terms of reduction in launch costs and logistics cost, positive contribution from purchasing savings, offsetting higher compliance costs and the cost of the new Ram heavy duty.
+
+On page 11, we show Asia-Pacific performance, combined shipments were down 30% or 19,000 units due mainly to the China JV where shipments were down 40%. Consolidated shipments were down 11% and revenues were flat due to positive mix and effects.
+
+Adjusted EBIT was down 19 million versus prior, due mainly to a loss in the China JV driving 20 million of lower equity pickup for FCA. The loss improved substantially from recent quarters due to reduce warranty and stock adjustments that we had at the back end of last year a more stable incentive levels in Q1.
+
+Industrial costs also improved due to some lower cost allocations, import volumes were down year-over-year. SG7A was reduced due to cost reduction actions in the regional office in China and lower marketing spend.
+
+Page 12, show the EMEA results, combined shipments were down 12% or 43,000 units. Alfa and Fiat brands accounted for nearly all of the reduction. A large part of which was due to continued discipline reducing the zero kilometre.
+
+Fiat professional was also down 10,000 units, due mainly to timing of our V [ph] business and the Turkish market reduction. Dealer inventory levels reduced by about 10,000 units compared to year end. And Jeep was up slightly as was the Lancer [ph] brand.
+
+Net revenues were down 10% driven by the volume I mentioned earlier. Important also to note that our industrial costs were negative in the quarter, due mainly to negative effects on Euro, Dollar impacting imported vehicles and emissions compliance costs.
+
+Industrial efficiencies were positive and there was also positive impact of some warranty and stock accrual rate reserve changes due to lower costs, partially offset by some higher fixed cost allocation.
+
+On page 13, we see the Latin America results, shipments were down due to the slowdown in Argentina where the market was down nearly 50% and our shipments were down 60%, as we manage the inventory position carefully. These reductions were offset partially by an improvement in Brazil.
+
+Revenues are flat year-over-year at constant FX, excluding some indirect tax credits recognized in the quarter in the revenue line 60 million of which are included in this adjusted EBIT.
+
+Adjusted EBIT was 105 million for the quarter. Price was positive nearly 40 million excluding the tax impact I mentioned. Industrial costs were negative due to lower tax benefits on export units from Argentina and Brazil and negative FX due the real being weaker against the euro and the dollar.
+
+Maserati on page 14. As Mike mentioned, we continue to have challenges on the sales line. We very carefully managed our inventory position, taking down shipments to 5500 for the quarter, notwithstanding its reduction in volumes we manage to maintain a slightly positive position in terms of adjusted EBIT 11 million for the quarter.
+
+Moving on to our outlook on page 15. In terms of the industry outlook there were no changes in our view of the regions. We still project the US market down around 3% compared to a down 1% in the first quarter.
+
+For EMEA we forecast a flat year, despite a slower start in Q1. Latin America stable with increases in Brazil offsetting the reduction in Argentina and Asia Pacific also stable expecting and improving China in the second half.
+
+Our financial guidance is confirmed. Importantly, the North America launches of Ram heavy duty and Jeep Gladiator are on track and also the improvements that we expected in industrial efficiencies saw a good progress in the first quarter with also launch and logistics cost reduced with principally NAFTA, which are offsetting the year-over-year changes in commodities, product cost on the Ram heavy duty and the compliance costs I mentioned earlier.
+
+In terms of the guidance on the cash flow, confirming our guidance with CapEx still at 8.5 billion and feeling good about the cash flow given the first quarter performance we just saw.
+
+With that, I'll hand the call back to Joe for the Q&A.
+
+Joe Veltri
+
+Thank you, Richard. Simon, you can start the Q&A session with the queue that we have please. Thanks.
+
+Question-and-Answer Session
+
+Operator
+
+Thank you, sir. [Operator Instructions] We will now take our first question from Patrick Hummel from UBS. Please go ahead. Your line is open.
+
+Patrick Hummel
+
+Thanks. Good afternoon, everybody. Three questions please if I may. First one very simple for the full year guidance you would need about 1.9 billion EBIT per quarter for the remaining nine months. I'm just curious if you can give us a bit of color how you expect that to shape up sequentially. Is the second quarter already going to be close to the 1.9 billion or is it going to be very much H2 queued [ph] with north of 2 billion call [ph] EBITs in the second half of the year?
+
+My second question would be on Europe and the profitability outlook. Taking into account the steep step down in CO2 emissions that's required to comply, plus the money you have to pay to Tesla. I'm just wondering if from today's perspective you would expect EMEA to be profitable in 2020? And very lastly, can you just give us an update on the remaining supplier businesses in your portfolio, any update on the strategic plans for those two assets? Thank you.
+
+Richard Palmer
+
+Hello, Patrick. To the first question we see a progression into Q2. We have an improvement, but as we mentioned in terms of adjusted EBIT in our initial discussion of guidance on the last call, there is a clear weighting into the second half in terms of - in terms of profitability because of the ramp up of both the Ram heavy duty and the Jeep Gladiator in NAFTA and the actions that we're taking on industrial costs also, plus the actions we're taking on the other businesses that we've talked about in terms of performance. So whilst we do expect a progression into Q2 and an improvement, particularly in NAFTA it is second - it is second half weighted.
+
+In terms of your last - in terms of the second question, the compliance costs for EMEA for this year we target - we're expecting at around €120 million, going into next year we would expect that to increase. However, the fact that we've brought - we've entered into the pooling [ph] agreement with Tesla, will significantly mitigate the increase.
+
+So we think - I think it's a bit early to give you a number on that, given as we're working on this and we'll obviously keep you updated as we work through the launches of the vehicles for the heavy electrification strategy which we have launching the Renegade, the Compass and Fiat bat [ph] next year.
+
+And obviously our focus is on launching vehicles and being compliant through selling those EVs, but it's also true to say that I think we believe the strategy to augment that with the use of the pooling agreement will help us to be more flexible as we launch those vehicles and wait for the market acceptance more generally of EV vehicles and the volumes that we all need to hit.
+
+Mike Manley
+
+Let me just add something on top of that Richard, in terms of - in terms of EMEA obviously what we saw even though it was masked [ph] really by the volume as we saw, the effect of reducing our central [ph] zero kilometre vehicles and other low margin channels, but we did see the increase now in our dealer retail channel which is positive and obviously that's going to continue as we get through the year.
+
+In addition to a series of restructuring actions that will begin to give us traction, I think the second half is - second quarter and through the balance of this year with increased shipments we were positive that by the time we get to the end of the year you're going to see EMEA return to margins in the order of around 3%.
+
+I think from a global perspective, if you look at our consolidated shipments and sales, we shipped something in the order of 70,000 units less than our sales in the quarter that was done for the reasons that Richard and I have already talked about. Obviously that's not going to be repeated going forward and it's going to be complemented by the launch of Gladiator and the ramp up of heavy duty as Richard said.
+
+The other business as you were I think referring to come out and tax it [ph] our objective really is to grow value in those businesses and we are working with our internal teams to see what that would look like. But we are also looking externally to see if there are options that would give the business and us a better result. That is working in progress and obviously as we progressed with that, we'll give you information on subsequent calls.
+
+Patrick Hummel
+
+Okay. Thanks, guys.
+
+Operator
+
+Thank you. Our next question comes from John Murphy from Bank of America. Please go ahead. Your line is open.
+
+Aileen Smith
+
+Good morning. This is Aileen Smith on for John. Thanks for the commentary on the net industrial cash all at the end of the quarter. I appreciate you are now focusing on that metric for the full year as we think about forecasting. But when we look at all the moving pieces outside of that measure like the Magneti sell, the dividends and the agreement at the Tesla [ph]
+
+Is there an approximation you have for where 2018 ends in terms of net Industrial cash and if you think about the balance sheet and capital allocation going forward is there a comfort net cash level you would operate with or is it more of a focus on gross cash and liquidity?
+
+Richard Palmer
+
+I think frankly the focus is growth cash and liquidity and as you saw we closed the quarter with about 20 billion of gross cash and liquidity. I think post- Marelli closing, post the dividends and adding back the industrial free cash flow we expect to generate through the year.
+
+Plus we have some debt maturities and I think we'll probably be looking at refinancing some of our debt this year. We should be at about 24 billion of liquidity post all of those things looking at our year end number.
+
+Aileen Smith
+
+Great. That's helpful. And can you talk a bit about your broader macro assumptions, particularly flattish in APAC and EMEA for the full year that incorporates an inflection and improvement in the back half. If alternatively the macro environment remains volatile and weak in those regions, what types of actions can you take from a price or cost perspective to offset potential volume pressure?
+
+Mike Manley
+
+Yeah. This is Mike. Let's start with APAC. As you know the first quarter was down 10% which I think was largely expected. I think that China as is a told before, second and third quarter you will see pricing in the marketplace as people make the transition. But I believe that partly because where they were second half of last year you're going to see better industry conditions at the back half of the second quarter and into the fourth - into the fourth quarter and certainly from the segments that we play and I think they're broadly going to be flat for the year.
+
+\We're going to continue the work, we've done on a variable cost and quality and the team that we have in place now will I think take advantage of the joint venture restructuring. With getting that traction back in sales for us is obviously important part of this equation and that's why we chose the people that we chose to send into the business.
+
+I think in EMEA you're going to progressively see the benefits of the strategy that we've got in place. And part of reducing those central zero kilometre sales is that they tended - they always ended up back in the dealer channel clogging up and replacing new vehicle sales.
+
+So the growth that we've seen in dealer retail is encouraging. They need to keep it going. It's a big focus for them and I think that will be complemented by some of the restructuring actions that will begin to take more effect from really the end of H2 - end of Q2 all the way through to the balance of the year.
+
+Aileen Smith
+
+Great. That's helpful. And one last one if I may, I realize it's very early days in the Jeep Gladiator launch, but can you talk about some of the traction you're seeing at the dealer and consumer level. And in terms of the consumer you're pulling in on Gladiator. Are they primarily coming to trading on Wrangler or are you pulling in more traditional pickup buyers?
+
+Mike Manley
+
+I can tell you - I can't answer the second question yet. What I can tell you is when we - when we opened the vehicle for orders we now set and it's a very short space of time, something like 25000 orders from our dealers for the vehicle, which is probably one of the quickest order ramp ups that I can I can remember. And obviously as it gets into the market we’re able to profile where our customers are coming from. We in subsequent quarters we have to give you more information.
+
+But our online demand, our hand raises, the feedback that we've had has all been very, very positive and I think that's just been reflected in the magnitude of the dealer orders that we've received.
+
+Aileen Smith
+
+Great. That's very helpful. Thank you for the questions.
+
+Operator
+
+We will now take our next question from Brian Johnson from Barclays. Please go ahead. Your line is open.
+
+Brian Johnson
+
+Yes. Good morning, Mike and Richard and team. Just following up on the last set of questions, one thing concerning to some observers over here is the high levels of Ram inventory and the high levels of Wrangler inventories. What does that mean for 2Q - how did it get there, what does that mean for 2Q production levels? And are you comfortable you're running the operations with kind of a tied eye that at dealers stock has [indiscernible]?
+
+Mike Manley
+
+Yeah. Hi, Brian. This is Mark. I'm going to answer that question. We ended our dealer inventory in December around 680,000, by the end of April that was down to under 640,000, so about 45,000 units now, that inventory came out across basically all model lines except Ram light duty which was broadly flat.
+
+With Wrangler, what - remember what's happening with Wrangler is the plant is going to go down for a period of time now in preparation for the plug in hybrid. So that was with an eye for that, that obviously was embedded in our forecast and our plans for the second quarter.
+
+And on light duty, you know our sales were up 18%. We're coming into traditional part of season where we see a pickup in terms of truck sales, no plan intended. So I actually feel comfortable with our light duty inventory given the gains that we've had in share, as I mentioned in my opening.
+
+So I think the 45,000 units out has gone - has really done the job that it needs. The planned [indiscernible] Wrangler preparation will normalize Wrangler inventory and I'm sure the Ram guys have got their eye on trying to keep their position as number two. And as long as they maintain my pricing, I'll be okay with that as well.
+
+Brian Johnson
+
+Okay. And any kind of thoughts following up on that - on continued two truck strategy or legacy Ram, new Ram. How long you might continue to follow that and what kind of volume mix you might be thinking about, because it's hard to tell outside in between the two platforms?
+
+Mike Manley
+
+I think the strategies worked well for us. We've really thought about which models, as you know the Classic really is the - what I would call the real traditional workman's truck in our Express and our tradesmen side. That's where we intend to keep it, which means we can focus our new truck with all of its technology on the mid to high price band. I see no reason at this moment in time in the foreseeable future to change that strategy.
+
+We saw a big swing of course from Classic to the new truck. As we continue to work to develop our fleet sales, you're going to see DS volume which is our internal code for Classic to increase.
+
+You know we made very big gains in total share and very big gains in retail share, but where we still sit with a big opportunity is in government and commercial sales. To some extent last year our fleet [ph] business teams were not able really to address that because all of the supply was dedicated to other channels. We think there's an opportunity for us to grow and I think that the Classic truck will be one of the areas that enables us to do that.
+
+Brian Johnson
+
+Okay. Thank you.
+
+Operator
+
+We will now take our next question from Dominic O'Brien from Exane. Please go ahead. Your line is open.
+
+Dominic O'Brien
+
+Hey there guys. Thanks for taking my questions. Yeah, three from me. The first one was just a follow up on the inventory comment you just made. This level now should we still expect shipments to underperform sales for the next couple of quarters or was the action that you took in April do you think enough to rightsize your inventory levels?
+
+And my second question was on NAFTA, the Q4 results you said that you expect NAFTA to be down year-on-year in the first half of the year. So now we've got Q1 out the way. How do we think about Q2 on this metric? Should not rebuilt in Q2 still be down year on year or could even get flat to growth there?
+
+And then my third question was just on R&D capitalization. And it seems that cash spend in the quarter went up by 100 million. But the P&L charge actually came down by 100 million. So can you just explain why R&D capitalization rate was so high this quarter and should we expect this to continue for the full year? Thank you.
+
+Mike Manley
+
+Yeah, its Mike. Ill do the inventory - inventory question, you're not going to see the discrepancy in terms of sales and wholesales to the extent that you saw in the first quarter. What we are going to do though is continue to make sure that our inventory is balanced. I think the 45,000 out as I mentioned before really came out across the range with the exception of light duty.
+
+We'll watch the sales, how they develop on light duty in the coming months and what we're able to do with our share. What I want to be able to achieve is to maintain the price discipline that we have had in the first quarter in particular because I think that it was a better business for us.
+
+So difficult for me to say absolutely we're going to match sales with inventory, I think that's probably wrong. We'll pick up the flexibilities in the marketplace with some discipline on costs that we've shown in the first quarter.
+
+Richard Palmer
+
+Hi, Dominic. So in terms of NAFTA Q2, I think that the NAFTA team as we mentioned did a good job in Q1 offsetting the volume reduction with some good management of price and industrial cost. And as we go into Q2, obviously there's some help there with the heavy duty ramping up and also Gladiator. I think the target is to get as close as we can to the same number as we did last year in terms of Q2 adjusted EBIT for NAFTA. I'm sure the team is very focused on that one.
+
+In terms of our R&D cap. It was higher in Q1 to your point. Its really a question of mix of activities. We capitalized the R&D based on the engineers allocated to the types of projects that - that means the capitalization is appropriate. So I think it's a mix of activity rather than anything else. I don't expect the number to be significantly different for the full year compared to a trend in the past.
+
+Dominic O'Brien
+
+Great. Thank you very much, guys.
+
+Richard Palmer
+
+Thank you.
+
+Operator
+
+We’ll now take our next question from Adam Jones from Morgan Stanley. Please go ahead. Your line is open.
+
+Adam Jones
+
+Thanks, Mike and Richard. Just three questions quick one - most of my questions on the whole cadence and the sequence of adjusted EBIT for the rest of the year has been answered. But clearly it looks like remainder of the year you got to have you're EBIT up roughly 10%. I mean, not quite 10% remaining three quarters versus last year remaining three quarters and then we can kind of fine tune that given this range you've given us for 2Q.
+
+I'm just giving you a chance to highlight any other one-off or non-repeated items from last year that provide a tailwind. There's a lot of investor concern around how you're able to make that target. You've been clear on the non-destock repeat, the improved mix, the lower cost, the China comps getting easier. I am just wondering if there's anything else or whether we've covered it all?
+
+Mike Manley
+
+This is Mike. I think you mentioned the work that we have done in terms of the efficiency of the business. So if you do the math that the shipments and look at the segments that we're going in you'll see that we're expecting significant benefit from those things going forward.
+
+One of the things that we had that was a big headwind for us last year really was on our supply chain logistics inefficiencies and our industrial inefficiencies. So to a large extent that's going to be very beneficial for us as we get into this year. We saw some of that come through in Q1. Obviously we still had launches to get ourselves ready for. But it was much, much better than prior year.
+
+And you'll remember in prior year we really battled with the launch of light duty, all the way through to September. It was a regular part of the - part of the cool [ph] we're not seeing any of that battle with heavy duty. We learn a lot of lessons and we're not seeing that with Gladiator and that came with cost, as you know, it was syllabus [ph] to the problems out.
+
+So I would say that because of that and some of the other things that you mentioned, when we look at the way that we think the year will develop, it's very much still and remains in line with our expectation and that's why we confirm in the guidance.
+
+Adam Jones
+
+Thanks, Mike. And thanks for bringing up that point, that's what I was kind of referring to these logistics and supply chain issues, with the launch hiccups and the pre-launch hiccups last year. Am I wrong in thinking that that number you're playing with is our order of magnitude around a 1 billion in EBIT?
+
+Mike Manley
+
+Yeah, that number is - just saw that basically in terms of the overall save.
+
+Adam Jones
+
+Just short of that?
+
+Mike Manley
+
+Yeah...
+
+Adam Jones
+
+Okay…
+
+Mike Manley
+
+We just saw that basics, its 100 million or so I would say.
+
+Adam Jones
+
+Okay. Thank you. 900 [ph] All right. Just a couple other questions. Has FCA made a decision to reintroduce the Dakota process there?
+
+Mike Manley
+
+No I don't think it will, maybe the Ram team and FCA professional team are very focused on solving a metric ton midsized truck solution for us because it's a big part of the portfolio and the growth that we want to achieve.
+
+It's an interesting question and it's an easy question dilemma for them because on the paper they may look at the same vehicles, but in reality they're very, very different vehicles. So us being able to find a cost effective platform in a region where we can build it with low cost and its still being very applicable in the markets is what they're struggling within the moment.
+
+I want that problem solved frankly, because it's a clear hole in our portfolio. It will not be filled with Gladiator, because Gladiator has a very, very different mission. But trust me on that, they're focused on it. We need to get it fixed in.
+
+Adam Jones
+
+Thanks. And my last one, you know, you guys have been in the news and the headlines on stories of consolidation throughout the quarter. A lot of it's focused on Europe. And mergers aside and speculation aside is there - can you give us any update on just kind of how your conversations with partners on a strategic level are going?
+
+Is 2019 too early to see some form of alliance partnership, again, I don't want to necessarily hurt the question by saying merger, but just something you can really do at a high volume, cost reduction level instead of Pan, Tesla all those damn money you know, and I'm not just referring to EVs, but AVs, electrical architecture, reducing costs for things a consumer doesn't see, is 2019 too early for some major development there? Thanks.
+
+Mike Manley
+
+Hi, Adam. This is Mike. Actually I do think you want to ask me the question very specifically, despite the fact that you just…
+
+Adam Jones
+
+Thank you. You know me too well.
+
+Mike Manley
+
+Yeah, I am learning. A lot to do on still in that front. But obviously I don't want to get in details. But I honestly believe that the next two, three years are going to yield very significant opportunities in this area. And when I think about the development of our business around the world from my point of view FCA will be playing an active constructive role. Now that future is defined, we've made clear in the past that we want to be active and proactive to develop our business and improve the value for our shareholders.
+
+I think as I said we're going into an environment where there are going to be opportunities and outside of that I'm afraid I'm probably going to disappoint you by saying you know, we just have to wait to subsequent calls for more data.
+
+Mike Manley
+
+Okay. Thanks, Mike.
+
+Operator
+
+We will now take our next question from Demian Flowers from Commerzbank. Please go ahead. Your line is open.\
+
+Demian Flowers
+
+Thank you. Yeah. And my first question is on going back to EMEA CO2 compliance, so you've got to make up around 30 to 35 grams in order to hit your target. And on my math the polling agreement with Tesla will get you, let's say a quarter of the way there. So while my first question is does that sort of square roughly with the way that you think about the benefit that you get from that?
+
+And then secondly of the remainder that you've got to make up, what's the split that comes from plug ins and EVs that you're going to launch versus the part that comes from improvements that you can make to the traditional part of the rest of your fleet? So the first part.
+
+And then just one additional question on CapEx, so it seems like your CapEx was running at quite a low level in Q1 even relative to the normal back end loaded seasonality that you have. So is the 8.5 billion that you talked about for the full year, till the right assumption?
+
+Mike Manley
+
+Demian, this is Mike. I'm going to answer your first question because I actually – its obviously on many people's minds, so I'm going to try and be as accurate as explicit as I can on this area.
+
+If I think about 2019, as we came into the year with 2019 with the fleet that we had without making dramatic changes that would have impacted our profit, I estimate and I'm looking at - I'm looking at Richard, I estimate we probably would have picked up a fine of around 350, 375 something like that, 390, 390 in the marketplace.
+
+The route that we've taken is dramatically, dramatically reduced that number and we will achieve compliance. So in 2019 what you're going to see in terms of my split and obviously it's not going to be - it is going to be close, but it's not going to be exact. I would say we will achieve compliance roughly with 20% of conventional technology because we're in the process of now rolling out a high efficiency energy and other technologies areas reduce vehicle demand.
+
+Now remember most of our competitors have already done that. We chose to do it this year. That will bring us about 20% there, the rest 80% will be through credit pooling. So then I think then through 2021 for example, obviously in 2020 we'll have the two plug in hybrids and the battery electric vehicle.
+
+In 2021, I think that conventional tech will give us about 40% of our compliance, electrification by that time we will then have five vehicle. We'll have more than that, we'll have three from 2020, plus another six coming on stream.
+
+In Europe 45% of our compliance will probably come from electrification, about 15% from purchase credits and then as we get into 2022, I think electrification roughly 50% to 60% conventional tech 40% and if there is a need for pooling it will be very, very small.
+
+So I think we have a picture and a strategy that will do two things. One, I think it will be a good hedge for us in terms of - if pricing is not available to fully recover the cost of that technology and obviously there is still some work to do to roll our infrastructure and drive consumer demand.
+
+And secondly, I would stress that, that we are continuing and have continued with the investment and development of our electric vehicle, so we have flexibility in terms of how we achieve over that period of time and that's how I'm thinking about it. That's how I'm thinking about the part of our compliance strategy that involves credit purchasing in Europe. Is that helpful?
+
+Demian Flowers
+
+Yeah. That’s very helpful. Yeah, thanks a lot.
+
+Richard Palmer
+
+And Damian, the CapEx is confirmed 8.5 for the year.
+
+Demian Flowers
+
+Thank you.
+
+Operator
+
+We will now take our next question from Martino De Ambroggi from Equita. Please go ahead. Your line is open.
+
+Martino De Ambroggi
+
+Thank you. Good morning, good afternoon, everybody. The first question is on the EMEA region. In your initial remarks you indicated the 3% as the rate of north sales in Q4, if I'm correct. Could you help us in figuring out what are the main variables leading to 3% following the weaker first quarter performance?
+
+Mike Manley
+
+Yeah, hi. This is Mike. I said in the region is 3% by the fourth quarter and I think it's a number of factors that will drive the business to a better performance. The part of that movement in terms of our channel will obviously improve our mix. We saw Jeep volume up in Europe in the first quarter about 14%, so I think that that work as shown albeit not in our EBIT performance has shown that if continued, which I believe it will do will bring progressive benefits throughout the year.
+
+And also as I mentioned working on a number of restructuring activities that really begin to kick in late second quarter, but into the second half which will add benefit I think for the business. The other thing that happened in the first quarter is they removed about 13,000, 11 to 13,000 units of dealer inventory, so we obviously sold more than we shipped and that progressively gets better for us as we go through the year.
+
+So a combination of those things in my mind and continued focus on the brand gives me a walk that I think that the team not only are focused on, but we'll deliver - in subsequent quarters progressively better result.
+
+Martino De Ambroggi
+
+Okay. Got it. The second question is on the guidance, if you could explain what are the underlying assumptions for raw materials in [indiscernible] and what's the change compared to the last time you provided the guidance, if something - obviously the Forex are significantly improved, so I expect that the contribution in underlying assumption for Forex is much higher than you expected at the beginning?
+
+Richard Palmer
+
+Yeah. In terms of commodities, we don't have any significant change to what we guided last time. The negative impact I think we said was about €750 million for the year, we're confirming that.
+
+In terms of exchange, no significant change there either. We're continuing to hold our guidance based on the exchange rate that we saw, last time we updated you, so basically the beginning of February. So nothing significant there either.
+
+And frankly the movements in exchange are helping us in some places its hurting as and others. So I wouldn't get into - too excited by exchange with them.
+
+Martino De Ambroggi
+
+Okay. Rachel if I may in one of your previous answers you mentioned that the net cash position at year end – well actually, you mentioned the liquidity at year end around 24 billion. If I ask you of rough range for the net cash position at year end?
+
+Richard Palmer
+
+About 4 billion.
+
+Martino De Ambroggi
+
+Okay. And very last, any news on the US Finco option?
+
+Mike Manley
+
+Yeah, hi. This is Mike. I think for us at this moment in time, but from a management resource and also from the way that we're thinking about directing our capital, we are going to stay with the arrangements that we have working with Chrysler Capital in the in the US. Obviously if something changes we'll let you know, but that's our current view.
+
+Martino De Ambroggi
+
+Okay. Thank you.
+
+Operator
+
+Our next question comes from Giulio Pescatore from HSBC. Please go ahead. Your line is open.
+
+Giulio Pescatore
+
+Hello. Thank you for taking my question. The first one is - it's on NAFTA, can you quantify maybe the negative impact of the off ramp up of the heavy duty pick up in terms of content costs in the second part of the year and how much of that you can offset with efficiencies? That's the first question.
+
+Mike Manley
+
+Yeah for the full year number, the increased cost on the product is €0.5 billion. And you know, well obviously we're clearly offsetting that number with some of the actions we've already talked about in the call in terms of efficiencies, with these launch costs, improved logistics costs and net savings on our purchasing area notwithstanding the commodity increase I mentioned earlier.
+
+Giulio Pescatore
+
+Okay. Thank you. Very clear. The second one on EMEA, do you now believe that you can go back to that previous level of profitability without having to grow shipments to the previous level, so have the option that you have taken on cost allowed you to go back to that 3% to 5% operating profit without seeing significant or any increase in shipments?
+
+Mike Manley
+
+Yeah, I would say that that combination of mix that I've talked about, which will obviously include the Jeep brand and the work that we're doing on restructuring, those will enable us I think to reach levels of profitability that we've been to in the past with lower shipments, how many lower shipments, I don't know.
+
+So I think they have a very clear plan. The restructuring is underway. I've already seen the channels move as I said and then shipments improve, through the year you're going to see the benefit of that.
+
+Giulio Pescatore
+
+Okay. Perfect. And maybe just one last one on working capital. How much do you think the full impact - full year impact of negative working capital will be or should we expect like a positive - from your positive working capital offsetting negative work in the first part of the year, coming by the end of ’19?
+
+Mike Manley
+
+Yeah. The negative you see in the beginning of the year is seasonal and we would expect that to flip as we go through the rest of the year, particularly because of the ramp ups of the Gladiator and the heavy duty in the US business.
+
+Giulio Pescatore
+
+Thank you
+
+Operator
+
+Our final question comes from Jose Asumendi from JPMorgan. Please go ahead. Your line is open.
+
+Jose Asumendi
+
+Thanks very much. Its Jose, JPMorgan. Mike, can you come back again please to this kilometres sales cleanup. How many more quarters you think you do that, can you spend a bit more specifically which restructuring actions are you taking, how much capacity you are taking out. I mean it sounds to me like a very encouraging signal of finally cleaning up the channels and also taking out capacity in the region?
+
+Second, Richard can you help us a bit on this industrial cost bucket for North America. Can we think of about maybe more than 500 million on a full year basis? And then the third one, Mike back to you, can you talk a bit about this civil partnership with Peugeot [ph] and would you consider you know using Peugeot LCD architecture which has now been also electrified by the way. Would you consider building LCDs seeing Peugeot electric architecture?
+
+Mike Manley
+
+Let's make sure, the first question was on – yeah, let me just talk a bit about the channels, historically our European businesses used, what I call central zero kilometre sales which are basically vehicles they register themselves and then just sell them off as used cars into the network, thus things in there, unless you're very lucky with residuals, it's going to hurt you.
+
+And secondly, it's substitutional [indiscernible] Sales are legitimate channel if they're done by dealers. And that's where they're happening not centrally any anymore. So this movement in terms of channel you get a cut off on one side and then a build in process on the other, one the major, the other one takes work and it's on the second half that we're working on.
+
+In terms of the actions that they're taking, it covers head count both blue collar and white collar headcount and also looks at markets outside where we have sales companies, full effect of the work that I do and not be seen until we get into 2020. But in terms of this year, I think it will yield something in the order of €80 million to €100 million benefit - run rate benefit by the time we get into the fourth quarter. So some of it takes longer than others.
+
+And it is done for two reasons, partly because we obviously want to streamline the commercial side of our business, but also as you know, one of the areas where we have been weak compared to our peers in Europe is the utilization of our plants. Some of that gets fixed with the investments we're making in terms of electrification that we talked of in the fourth quarter and some of it will be fixed in areas where we can work in with our union, make appropriate headcount reductions. So that's a little bit more detail on the work that they are - the work that they're doing.
+
+Richard Palmer
+
+Yeah, Jose for the NAFTA industrial costs, we're targeting around 0.5 billion number you mentioned for the year, obviously we had a good start in the quarter, but there was obviously a front end waiting to the launch and logistics issue we had last year. So I think though the way we've started that number could potentially be stronger in the second half and we're working - we're working through that at the moment.
+
+Jose Asumendi
+
+Okay. Mike back to you. Final one please, is my follow up, on the legacy…
+
+Mike Manley
+
+Yeah…
+
+Jose Asumendi
+
+Regard in that space. Yes, thank you.
+
+Mike Manley
+
+On the vans, yeah absolutely, as you know we've had a long relationship with Peugeot and I’ve been vocal on the fact is one of the best partnerships that we've had. And as you know, and so that we've extended it now. I think that - the way that surveillance [ph] work for both of us has been a good illustration that if you approach these things in the right way that they - they can be beneficial to both parties and my view is when we find opportunities to do that we're going to take advantage of it. So if you asked me what I can - would I consider, absolutely under the right circumstances.
+
+Jose Asumendi
+
+Thank you very much.
+
+Operator
+
+Ladies and gentlemen, that will conclude the question-and-answer session. I would now like to turn the call back to Mr. Manley for any additional or closing remarks.
+
+Mike Manley
+
+Thank you. Firstly, I'd like to say thank you for your time this morning and afternoon. Obviously we will be active at the end of the second quarter, but I do just want to underscore a few points. As we said this quarter is in line with our expectations and I think if you look at the work in North America for example in terms of our cost and our pricing, you can see that despite the fact our shipments were down and we knew they were down we continue to work to make sure that business remains strong going forward. And I think the Thames performance again is a credit to the team down there. Obviously there are areas of business that need continued work and I think we have started work quite aggressively in some of those areas. And for example we talked a lot about EMEA. There's no doubt that the benefits in EMEA are going to be second half focused. But as always, you can begin to track some of the early signs that you're gaining traction in those areas. So that's what we'll continue to do and we'll look forward to the second half to see it coming through in better - in better numbers.
+
+But what we see and as a result of the work that's been done and the things that we know we're going to do, where as we've already said, confirming our guidance for the year and as we get through the year we will obviously be able to demonstrate the fact that the first quarter will in fact be the lowest quarter that we have. So with that, I would like to thank you all very much. And now close the call.
+
+Operator
+
+Ladies and gentlemen, that will conclude today's conference call. Thank you for your participation. You may now disconnect.

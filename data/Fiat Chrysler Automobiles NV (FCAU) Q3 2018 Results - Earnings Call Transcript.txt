@@ -1,0 +1,657 @@
+Fiat Chrysler Automobiles NV (FCAU) Q3 2018 Results - Earnings Call Transcript
+Oct. 30, 2018 4:28 PM ET |
+About: Fiat Chrysler Automobiles N.V. (FCAU)
+Q3: 10-30-18 Earnings Summary
+
+    Slides
+
+EPS of $0.97050147492625368732 beats by $0.14
+Revenue of $32.64B (5.08% Y/Y) beats by $1.69B
+
+Fiat Chrysler Automobiles NV (NYSE:FCAU) Q3 2018 Earnings Call October 30, 2018 11:00 AM ET
+
+Executives
+
+Joseph Veltri - Fiat Chrysler Automobiles NV
+
+Michael Mark Manley - Fiat Chrysler Automobiles NV
+
+Richard Keith Palmer - Fiat Chrysler Automobiles NV
+
+[06VZ1Y-E Michael Mark Manley]
+
+Analysts
+
+Rod Lache - Wolfe Research
+
+George Galliers - EVERCORE ISI
+
+Adam Michael Jonas - Morgan Stanley & Co. LLC
+
+Brian A. Johnson - Barclays Capital, Inc.
+
+Thomas Besson - Kepler Cheuvreux SA
+
+Dominic O'Brien - Exane Ltd.
+
+Monica Bosio - Intesa Sanpaolo SpA
+
+John Murphy - Bank of America Merrill Lynch
+
+Martino De Ambroggi - Equita SIM SpA
+
+José M. Asumendi - JPMorgan Securities Plc
+
+Operator
+
+Good day, ladies and gentlemen, and welcome to today's Fiat Chrysler Automobiles 2018 Third Quarter Results Webcast and Conference Call. For your information, today's conference is being recorded.
+
+At this time, I would like to turn the conference over to Joe Veltri, Head of FCA Global Investor Relations. Mr. Veltri, please go ahead sir.
+
+Joseph Veltri - Fiat Chrysler Automobiles NV
+
+Thank you, Simon, and thank you to everyone for joining us today on the call. You'll be able to find the presentation material that we'll be covering today along with the related earnings release that was posted earlier today. Both of those you'll find under the Investors section of FCA's group website.
+
+Our call today will be hosted by the group's Chief Executive Officer, Mike Manley, and Richard Palmer, the group's Chief Financial Officer. After their brief presentation, we will be holding the customary Q&A session.
+
+But before we begin, I just like to point out that any forward-looking statement that might be made on today's call will be subject to the risks and uncertainties mentioned in the Safe Harbor statement that can be found on page 2 of today's presentation and that the call will be governed by this language.
+
+With that, I want to turn the call over to Mike Manley.
+
+Michael Mark Manley - Fiat Chrysler Automobiles NV
+
+Thank you, Joe. Well, good morning, good afternoon to everyone. Before Richard covers the details of our financial performance of the quarter, as traditional, I'm just going to take you through some of the highlights from an operating perspective and mention some important non-recurring items.
+
+So, first and foremost for FCA, it was a record quarter with the group earning €2 billion of adjusted EBIT, which was up 13% versus last year, with a record margin of 6.9%, up 20 basis points. And you'll have seen that this performance was driven by strong results in North America and LATAM.
+
+Now, in North America, we achieved a 10.2% margin and we improved adjusted EBIT by around 50% versus last year to €1.9 billion. Now, this improvement was in large part due to the impact from the three new products that we've launched this year; from both sales and shipments increase year-over-year for the Wrangler, Ram Light Duty truck, and also the Jeep Cherokee.
+
+Now, in LATAM, we improved our adjusted EBIT by 41% to €83 million, and that's despite the economic deterioration in Argentina and the negative foreign exchange effects. And we also increased our share in Brazil by 60 basis points to 18.2%, which is solidifying our number one position in that market. And our share in Argentina rose 70 basis points to 12.7%. In addition, the region celebrated the milestone of 500,000 units being produced at our Pernambuco plant in Brazil.
+
+Now, the two markers where we faced some challenges were Europe and China. And we've already taken actions that are addressing these issues that cover both organizational structure and process change.
+
+In Europe, we did not enter the WLTP transition as lean on inventory as we would have hoped, and therefore, we needed to utilize high discount sales channels which obviously yielded lower margins and came at a cost to us in the quarter. Now, on a positive note, all vehicles across each of our brands in EMEA were certified under the WLTP standards in advance of the regulatory deadline, and therefore, we're not going to be limited in our offerings going forward. And I would like just to take a moment to thank our powertrain and vehicle engineering teams that worked hard to make that happen.
+
+And as you know, we recently announced the appointment of Pietro Gorlier as COO of the region. And Pietro has a strong track record of improving margins at Magneti Marelli and MOPAR. And he's already focused on this task in EMEA. And as a result, we'll have a more disciplined approach both from a brand and a channel mix perspective. And I expect to see positive development at our brands and improved margins over the coming quarters even if this comes with the short-term reduction in overall volume. The end result will be a better quality business in our EMEA region.
+
+Now, in China, we're also navigating a transition of regulatory requirements from China 5 to the China 6 emission standards, which includes a pull-ahead of those requirements in some China cities. This transition coupled with the recent slowdown in the China market that I think we're all now familiar with has also left us too heavy on certain inventories. Therefore, in order to decisively address this issue, we're in the process of correcting this imbalance through inventory adjustments.
+
+The Europe and China market factors also impacted our Maserati performance during the quarter and you can see that's reflected in the brand's adjusted EBIT. And the teams are intensely driven on aligning our inventory properly in these two markets which I expect will take the next two quarters to realize.
+
+We also remain focused on the fundamentals in China and that's to continue to strengthen the Jeep brand proposition to the consumer reflected most recently in our Grand Commander launch which, as you know, is our three-row Jeep designed specifically for the China market. And this will be further reinforced with the launch of a refreshed Cherokee early 2019.
+
+Now, let me move on to the important singular actions that occurred in the quarter. Firstly, we recognized a €713 million charge for estimated costs related to the U.S. diesel emissions matter. Now, this does not represent a settlement outcome or any admission on our part, but reflects a prudent level of provision given our assessment of the status of ongoing negotiations with the regulatory agents and their counterparties. And given the progress of discussions on these matters, we thought it was appropriate under our accounting rules to record this charge at this time.
+
+And secondly, to further strengthen our balance sheet, we accelerated a planned discretionary contribution to our U.S. pension plans of €670 million. And as a result of U.S. tax reform, this contribution had an additional effect of realizing a significant favorable tax benefit, leaving a net cash impact of around €600 million. This pension contribution impacted our net debt position at the end of the quarter.
+
+The combination of this pension contribution and the actions to correct the inventories in our distribution channel has resulted in revising our net cash guidance at the end of the year from €3 billion to a range of €1.5 billion to €2 billion. Now, as a reminder, even at this adjusted guidance, we're projecting an improvement in our net cash position year-over-year of over €4 billion.
+
+And finally, earlier this month, we announced we had reached agreement for the sale of Magneti Marelli to CK Holdings, creating a leading independent automotive component supplier. Now, the combined business will operate under the name of Magneti Marelli CK Holdings and will have total revenues of around €15.2 billion, and therefore, put them in the top 10 as a global independent automotive component supplier. We will enter into a four-year supply agreement on similar arm's length terms which we apply today with the new company.
+
+Now, the agreement represents a transaction value of €6.2 billion with an estimated net cash proceeds of around €6 billion to be received at closing, which we expect to occur in the first half of 2019. And we're planning to return a portion of the proceeds to our shareholders, and around the time of the transaction closing and subject to board and shareholder approval, we will pay an extraordinary dividend of €2 billion and this will be in addition to the commencements of an annual ordinary dividend in the spring of 2019.
+
+We will continue to maintain our historical discipline with capital allocation whilst maintaining the appropriate liquidity to support capital investment requirements of products, technologies and to ensure these investments sustain through economic cycles.
+
+So, in summary, we had a strong operating performance this quarter, a record in fact, and clear work to do in APAC, EMEA and Maserati, work which, by the way, we have already started with some of the recent actions that we have taken. And moreover, the expected proceeds from Magneti Marelli transaction will leave FCA in the strongest position that we've been since our formation in 2014, giving us, for the first time, a balance sheet and liquidity position that will be comparable to that of our peers.
+
+With that, I will turn it over to Richard to take you through the details of the quarter.
+
+Richard Keith Palmer - Fiat Chrysler Automobiles NV
+
+Thank you, Mike, and welcome to everybody on today's call. Want to start with a little bit of housekeeping. The presentation format of the numbers today reflect the inclusion of Magneti Marelli in the results and in the guidance. We're doing this for comparability with prior periods and our previously provided guidance. As you are aware, in accordance with accounting standards, given our intention to separate Marelli at the end of the quarter, Magneti Marelli will be presented from a financial reporting point of view as discontinued operations in the group's financial statement for current and prior periods.
+
+In addition, you'll also know that we do not show a Components segment any longer due to the materiality of the remaining businesses, which will now be included going forward in other activities. Mike commented on most of the items on this page on page 3, but just to reiterate, we had a very strong quarter from an operating point of view. We had record adjusted EBIT at €2 billion, up 13%, with margins reaching 6.9%.
+
+NAFTA results were a record, up 51% to €1.9 billion and margins at 10.2%. LATAM had a very good quarter notwithstanding the difficulties in the Argentinian market with adjusted EBIT up 41% and margins at 4.2%. And from a balance sheet point of view, as Mike mentioned, we made a pension contribution in the quarter which impacted our net industrial cash position negatively of €0.6 billion in the quarter and €0.5 billion for the full year net of the tax benefits accrued as a result.
+
+We had some positive news from Moody's during the quarter, upgrading their outlook on FCA's rating to positive from stable. And as we look at our guidance into the end of 2018 and this guidance includes no impact for the Magneti Marelli transaction or for any cash related to U.S. diesel emissions matters that may settle. We don't have exact – an idea of when that may occur. So, for the moment, that's not included in this guidance.
+
+We're showing our net revenues confirmed at €115 billion to €118 billion; adjusted EBIT €7.5 billion to €8 billion. We expect to be on the low end of these ranges, but we are holding those operating metrics through the end of the year. Adjusted net profit is confirmed at €5 billion and net industrial cash adjusted to €1.5 billion to €2 billion, reflecting the pension contribution we mentioned and also some realignment of production to manage inventory into the end of the year.
+
+Moving to page 4, we already discussed the Marelli transaction, so I won't repeat the comments we've made. I think I should just note that we anticipate the transaction to be closed in the first half of 2019 subject to regulatory approvals and the normal closing process. The expected net proceeds around €6 billion are subject to customary adjustments at closing.
+
+The transaction clearly allows us to further improve our liquidity position and align that position to levels of our peers, and also to continue to work on strengthening our balance sheet, and with the comment regarding Moody's earlier, we continue to work to target an investment grade rating in the near future.
+
+We announced today that we intend to propose to our board and to our shareholders the payment of an extraordinary dividend of up to €2 billion at closing, and also to commence the payment of ordinary dividends of 20% of earnings. As we already discussed, it was our intention at our Capital Markets Day through the plan period.
+
+Moving to page 5; some comments on product news in the quarter. Fiat presented a new 500X in September. It features a restyled exterior and a new interior and is also available with a new FireFly Turbo 1 liter and 1.3 liter engines. And Jeep had the European launch of the all-new Wrangler and the new Cherokee. And importantly for the European market, these also feature all-new powertrain options including a 2 liter turbo gas engine and a 2.2 liter MultiJet turbo diesel.
+
+We continue to invest in technologies as we execute our Capital Markets Day plan and we began preparations to produce the new Jeep Renegade PHEV in our Melfi Plant in Italy with a market launch in early 2020. The Renegade PHEV will be produced alongside the internal combustion engine version which we already manufacture in Melfi.
+
+Moving on to page 6, we have the financial summary. Combined shipments were up 3% with consolidated shipments up 7%, driven by strong performance from NAFTA and Latin America. The Ram brand was up 34% and Jeep was up 10% on a combined basis, offsetting Fiat, Alfa and Maserati which were down year-over-year.
+
+Our net revenue reached €28.8 billion, up 9% or 11% at constant exchange, reflecting the higher shipments mentioned earlier and positive pricing and mix driven by NAFTA and LATAM. Our adjusted EBIT reached €2 billion with a 6.9% margin and a sequential improvement in our margin, up 120 basis points.
+
+Adjusted net profit reached €1.4 billion, up 51%. This reflected the strong operating performance in our adjusted EBIT and lower financial charges and taxes. Our net profit was down to €0.6 billion from €0.9 billion with the positive impact of the operating performance offset principally by the charge we took regarding U.S. emissions mentioned earlier.
+
+Our net industrial cash closed last quarter positive with nearly €500 million. It was reduced to a net industrial debt position of nearly €200 million principally due to the accelerated discretionary pension contribution we mentioned. Liquidity stayed strong at €20 billion. It was down slightly reflecting the pension payment and also some pay-down of gross debt related to a euro bond we paid off in the quarter.
+
+Moving to page 7, we show the components of the improved adjusted EBIT. We also show, for completeness, the impact of the Marelli transaction on adjusted EBIT, showing Marelli as discontinued operations as it will be presented in our financial statements. As you can see, the continuing operations show a minor reduction in adjusted EBIT margin after the execution of Marelli of 10 basis points to 6.8%.
+
+NAFTA made another strong contribution as did LATAM despite negative FX translation. And APAC and Maserati continue to struggle in a tough China market, while EMEA had lower volumes because of seasonality, but also negative pricing in part due to the WLTP transition. We will review these in more detail on the following pages.
+
+Moving to page 8, we show the cash flow for the quarter. We closed with €0.2 billion of net industrial debt as I mentioned. Excluding the pension contribution, our industrial cash flows were €0.2 billion lower than prior year due to €0.9 billion from higher working capital absorption, offset partly by €0.5 billion of lower CapEx and €0.3 billion of improved EBITDA.
+
+The working capital difference year-over-year is driven by a non-repeat of production ramp that we had last year for Cherokee and Compass in NAFTA, and a production reduction in this year to manage inventory offsetting the increases we were showing as we build production in SHAP plant for the Light Duty truck. The working capital frankly this year shows a more normal seasonality due to the summer shutdowns in both EMEA and NAFTA.
+
+Moving to page 9, we review NAFTA performance. The industry was down 3% year-over-year to a SAAR of 17.3 million units, still at a very healthy level. Canadian SAAR was flat at 2 million units. Sales of FCA were up 7% to 634,000 units, driven by Jeep and Ram up 32,000 and 14,000 units respectively. Our NAFTA share was 12% from 11% last year.
+
+Our U.S. sales were up 10% with retail share up to 12.7% from 11.2%, and fleet sales were 17% of total U.S. sales, slightly up from 15% in the prior year. Our U.S. dealer inventories days of supply were 83, up from last year due to continued launch of the all-new Ram 1500 and Jeep products, but in line with the prior quarter where we were at 82 days. Shipments were up 14% to 673,000 units, driven by the new products mentioned before. And our net revenues were up 18% percent at constant exchange to €19.1 billion.
+
+Adjusted EBIT margin was up to 10.2% compared to 8% last year. And that increase was driven by a strong commercial performance in the quarter as you can see in the walk. And if you sum volume mix and net price, it was a positive €1.6 billion contribution, more than offsetting the increased product costs which is the large part of the €1 billion negative industrial cost column. And that basically allowed us to improve our margins as I mentioned.
+
+Moving to page 10, Latin America had a good year-over-year improvement despite FX headwinds and challenges due to the Argentinian market being down 25%. In fact, compared to our prior guidance, the economic issues in Argentina cost us around €50 million of EBIT in Q3 and will be a similar number for Q4 given the difficulties in that market following the devaluation.
+
+Our sales for the region were up 8% to 150,000 and our overall regional market share was up to 13.4% from 12.6%. We remain the market leader in Brazil with an 18.2% share, and our Argentina share was up 70 basis points. Jeep remained the leader in the Brazilian SUV segment with a combined share of 21%. Inventories remain in good shape with flat year-over-year at 38 days. Shipments were up 8%, in line with sales, primarily driven by the new Fiat Argo as well as the Jeep Compass.
+
+Net revenues were slightly down nominally, but up 14% at constant exchange and our adjusted EBIT margin at 4.2%. The improvement was driven again by a strong commercial performance, both volume, mix and price were positive notwithstanding negative impacts in Argentina because of the 127% devaluation of the peso, which we offset with 80% increases in our prices locally, but still had a negative impact overall.
+
+We had a negative €32 million impact on industrial costs due to higher D&A – depreciation and amortization – for the new vehicle launches, slightly offset by a positive item for dispute on labor that we settled in the quarter. SG&A was slightly higher with higher advertising for vehicle launches and the negative FX was driven principally by Argentina.
+
+Moving to page 11, comment on APAC which continues to face challenges. In the markets where FCA is present, demand was down 8% due to China being down 10% and the SUV segments in China being down 11%. The China market continues to be impacted by lower overall economic growth, as you know, which is showing the slowest pace since Q1 2009.
+
+FCA combined sales were down 18% in the region compared to 23% down in the prior quarter and China JV sales were down 22%. Overall Jeep sales in APAC were 48,000 units versus 58,000 in the prior year with Cherokee the most impacted vehicle, down 7,000 units.
+
+Our inventories were up compared to last year, days of sales to 112 days from 108, but down from the 129 days we showed you at the end of Q2 due to production actions to manage inventory levels to demand. Consolidated shipments were down 17% and that drove our revenues down 24% including also negative mix and market mix.
+
+Our adjusted EBIT loss was €96 million for the quarter and you can see below the walk to explain that. We had negative volume and negative mix due to lower BUX shipments. Our incentives were negative due to continued high competition in the BUX segments. We offset some of that with cost actions on industrial cost and SG&A, and then as you'll remember last year, we had a large positive item for Tianjin insurance recoveries that was not repeated this quarter, and our China JV also showed a loss in the quarter compared to last year's profit.
+
+Moving to page 12, EMEA. Sales were down 4% in the quarter. Our market share was 6.3% for passenger cars and 10.6% for our LCVs, basically flat year-over-year. We showed growth in major markets excluding Italy in the quarter. And our passenger car sales in the region were flat; higher Jeep up 64% and Alfa Romeo plus 5%, offset by lower Fiat. The LCV sales were also impacted by weakness in the Turkey market.
+
+Our inventories in terms of days of sales were up to 98 days from 79. This is principally due to timing of sales in the quarter with lower sales in September because of the WLTP transition. We expect this number to go back to more normal levels by the end of Q4 as we also work on our production to realign inventory going into the first half of next year. Our shipments were down 4% and our revenues were flat at constant exchange of €5 billion.
+
+If we look at the adjusted walk below, you can see that, commercially, we continued to have negative variances. Our volume was down 12,000 units, mainly due to (26:23). We had unfavorable trend mix on some of our Jeep vehicles because we were in launch mode last year, particularly for the Compass. And we also had some negative mix due to sales into expensive discount channels for used cars as we sold our inventory, partly due to the WLTP transition.
+
+In pricing, there's also a negative impact for incentives due to WLTP and due to foreign exchange impacts on the Swiss franc and the British pound. Purchasing and manufacturing slightly offset the negatives on the commercial side. We are investing in the launch of the Fiat 500X and the Jeep Renegade, and that gets us to the €25 million loss for the quarter, which, with the exclusion of WLTP, would have been positive, but would still have been down year-over-year.
+
+Moving to Maserati on page 13. Sales were down 19% with all the main markets down by a similar percentage. These lower sales levels mean our days sales and inventory for dealer stock are up to around 120 days. And so production levels have been reduced commensurately and further actions will be taken in Q4 if necessary.
+
+Our net revenues were down 23% to €631 million, and that contributed to a reduction in our adjusted EBIT from €113 million last time to €15 million this time. The volume was a big part of the reduction. Also, as you can see in the graphic on the right, China volume is down more than volume in other markets, and China is a more – is a large contributor to profitability, so that hurt us in terms of mix. And then, FX is also a big impact, particularly euro-dollar year-over-year.
+
+Moving to page 14, our industry outlook is substantially unchanged going into the last few months of the year. The U.S. market is expected to be slightly down in Q4, but still very strong at 17.2 million units, and is also showing strong average transaction prices as it has been for the last few quarters. Latin America, we expect to be up 9% in Q4 year-over-year, and we would expect to see the Brazilian market also respond positively going into next year to the conclusion of the presidential elections. Asia-Pacific is down driven by China, down 13% in the fourth quarter. And EMEA, we expect to be flat in Q4.
+
+On page 15, we reiterate the guidance. As I said, we expect revenues and adjusted EBIT at the lower end of the range due to the reduced volumes for management of inventory in NAFTA and lower than forecast sales in LATAM due to Argentina and EMEA. These are largely offset in terms of profitability by improved mix and price in NAFTA and LATAM, but have impacted our working capital negatively in Q4 which has caused us to adjust our net industrial cash guidance together with the impacts of the pull-forward of the discretionary pension contribution. Q4 cash flow target is around €2 billion in line with the prior performance.
+
+And with that, I'll turn the call back to Joe and we'll take questions. Thank you.
+
+Joseph Veltri - Fiat Chrysler Automobiles NV
+
+Thank you, Richard. Simon, I believe we are ready to open up the lines for questions. So, if you would start that process, please?
+
+Question-and-Answer Session
+
+Operator
+
+Thank you very much, sir.
+
+Joseph Veltri - Fiat Chrysler Automobiles NV
+
+Simon, I think you can take the first question in the queue.
+
+Operator
+
+Certainly, sir. We'll now take our first question from Rod Lache from Wolfe Research. Please go ahead. Your line is open.
+
+Rod Lache - Wolfe Research
+
+Hi, everybody. Had a few questions. First, was wondering if you could provide just an early view on Europe heading into 2019 for the market and for Fiat Chrysler specifically. Obviously, some volatility right now, but do you believe that the volume and pricing weakness is temporary or no?
+
+Michael Mark Manley - Fiat Chrysler Automobiles NV
+
+So this is Mike. I think what we saw in the third quarter, as we described, really was driven by that level of inventory as we came up to that transition date which meant that we had to do things over and above we would normally do to get our inventory in the right position. But, notwithstanding that, if I look back at our performance in EMEA, we began to make progress in terms of our overall margins. And I think that was focused on the areas of, clearly, Jeep brand and mix.
+
+But, from my point of view, I think we still have significant upside and that's one of the key reasons why I think Pietro is a great fit for that role. We clearly have a strong benchmark in Europe, and I think the way that they have improved their margins is something that we've shown we can do in North America and we now just need to make sure we do, do it in EMEA.
+
+So, I see the third quarter as an anomaly. I think we'll improve from that. I think it will take a little while just to clear out some of the used cars from the entire channel that Richard talked about. But we're very focused on margin improvement not just on that price position but also our cost position. So, from that regard, I think we understand what we need and the third quarter, as I said, was an anomaly.
+
+Rod Lache - Wolfe Research
+
+Okay. Great. And more broadly, your management teams historically been very nimble in terms of adjusting plans to reflect the market. In your five-year plan you have some increases in industrial costs and CapEx. Certainly, it's significant even in the next two years. If the market were to be a bit weaker, could you just describe what kind of latitude you have to make adjustments to this?
+
+Michael Mark Manley - Fiat Chrysler Automobiles NV
+
+Yeah. I think that's one of the – one of our characteristics is that we continually review where the investments are targeted to make sure that we're going to get the best return from that capital. Clearly, there are some non-optional investments that we are making at this moment in time with all of our electrification programs, regardless of the size of the market in Europe and in China. Those programs particularly need to go forward. So, they don't become optional going out.
+
+But one of the things that we've been able to do is, even though we plan an investment that may be a refresh of a vehicle, quite often we find that we're able not just to sustain our pricing but our volumes without the need for that. And they're the ones that I think become more optional in the five-year plan. I have to say though, as I look out across all of the regions, notwithstanding China's difficulties as we sit here today, I remain positive in terms of the market outlook.
+
+Rod Lache - Wolfe Research
+
+So, just to clarify that...
+
+Richard Keith Palmer - Fiat Chrysler Automobiles NV
+
+And I think that also – sorry. Go ahead, Rod.
+
+Rod Lache - Wolfe Research
+
+I was just hoping you can maybe clarify that a little bit for us. In the next two years, you talked about, I think, €6 billion to €8 billion of industrial cost inflation and €2 billion of CapEx. Some of that is non-optional and some of it is programs that you have some discretion over and content that you might have some discretion over.
+
+How should we think about that if not necessarily a recession sort of scenario, but if North America or Europe or Asia or any of the major markets were to be a bit weaker, is there any way to characterize the adjustments that you can make with some modestly lower demand?
+
+Michael Mark Manley - Fiat Chrysler Automobiles NV
+
+If you're looking for a specific breakdown of that in terms of the investment, that's not something I can give off the top of my head. But if I look across our product ranges, there are a number of our vehicles that would go through their normal refreshes, as you know. That's something that we – that's been part of our success, I think, across all of our brands. And they're the ones that we would absolutely look very closely at to make sure that we still think we're going to get value from those investments.
+
+But base powertrain and technology investments would need to continue. Obviously, if the market turned down, we could look at rebalancing some of those investments to make compliance and that would be a focus on key brands and key segments, but in terms of a specific breakdown, Rod, I can't give you that right now.
+
+Rod Lache - Wolfe Research
+
+Okay. Just lastly, you alluded to some changes in Asia. I was wondering if you could just speak to when we may see some evidence of that market turning for you.
+
+Michael Mark Manley - Fiat Chrysler Automobiles NV
+
+I think we were talking at Capital Markets Day that one of the things that we had learned is that our brand positioning for Jeep needed to be moderated and we need to make it much more relevant rather than a professional off-road brand. And we said that that work would commence really with the launch of the Grand Commander. The Grand Commander is really in launch mode as we speak.
+
+One of the things Richard mentioned is our year-over-year largest volume impact in China came from Cherokee. The good news is that we launch our fully refreshed Cherokee at the beginning of next year. And then that's followed up, as we get through the year, with powertrain refreshes. So I think, from a product perspective, we come into a period where we have good product cadence.
+
+I think the other thing that as I look at the business as a young joint venture that we haven't had the benefit of is years of reducing variable cost within our business. So we've now instigated a program in conjunction with our partner where we will look to accelerate that fairly significantly. And I think the combination of those things will put us in a good shape. It won't happen overnight, but it will certainly happen as we get through the second quarter of 2019.
+
+Rod Lache - Wolfe Research
+
+Great. Thank you.
+
+Richard Keith Palmer - Fiat Chrysler Automobiles NV
+
+Rod, just a quick one for me. I think, Rod, just quickly for me. To your point, I think one thing that's important is following the closing of the Marelli transaction and the fact that, obviously, we are going to have proceeds coming onto our balance sheet, as we talked about, we are very focused on continuing the strength in balance sheet and getting our self to investment grade.
+
+And I think, as you talk about risk in the market and CapEx commitments, clearly, we understand the importance of continuing to improve our financial position so that we don't get caught in any potential downturn. Not that we're seeing one today, but it's clearly something we need to plan for and that's the focus with the use of funds that we're looking at with the Marelli transaction.
+
+And I think, secondly, a positive that we've already invested in the new Light Duty, we're investing in the new Heavy Duty, we've just invested in the new Wrangler. Some of the key vehicles for us at least in the current configuration are new. And as we look into this future CapEx period, as Mike said, clearly, there are non-optional investments in technology that we need to make. But we also have a relatively new portfolio on some of our key vehicles. And I think, as we said in the past, we've always had good flexibility on CapEx and we'll continue to.
+
+Rod Lache - Wolfe Research
+
+Makes sense. Thank you.
+
+Operator
+
+We'll now take our next question from George Galliers from EVERCORE. Please go ahead. Your line is open.
+
+George Galliers - EVERCORE ISI
+
+Thank you for taking my question. Firstly, with respect to North America, you achieved more than the 10% margin during the quarter. And in your 2022 plan, you're targeting a margin of 10% to 12%. Providing industry volumes hold at roughly 17 million in 2019, is there any reason that the margin should drop back below 10% in the near term?
+
+Michael Mark Manley - Fiat Chrysler Automobiles NV
+
+I think we're very pleased, obviously, with the margin that we achieved in the quarter. One thing that is certainly true is when you launch new vehicles such as the new Light Duty Ram, you do get that margin benefit as you know. And as those vehicles get longer into the marketplace, some of that benefit may not be available. So, even though we're very pleased with this margin, we also recognize that some of it was a point in time.
+
+When we look out into the 2020 and the plan that we have, the only impact that we may have on margin in that period is, as you know, we have a degree of electrification coming into North America. Our assumption at this moment in time is that the majority of that will be recovered in pricing, but we did embed in that forward-looking margin number some of that technology cost not being recovered in the marketplace. That kind of gives you a view on the margin and that 2020 plan, I think. But it does show the work that we have done has indeed delivered a margin that is not just comparable to some of our peers but exceeds them.
+
+George Galliers - EVERCORE ISI
+
+Okay. Thank you. And then, just also sticking with North America, just on the €1 billion of industrial costs, could you perhaps provide the split between how much of that was content, how much was logistics, and whether the logistics were sort of one-time in nature around expedited freight or whether they continue?
+
+Richard Keith Palmer - Fiat Chrysler Automobiles NV
+
+Yeah, George, about 80% to 90% of the number is content, but there are inefficiencies in there because we have been managing complicated launch. And I think, going into next year, we do have opportunities to take out some inefficiencies in the system which would support our margins going into 2019.
+
+George Galliers - EVERCORE ISI
+
+Okay. And finally, just on the diesel provisioning, can you clarify exactly what that number includes? Is it an all-in number which considers fines, potential remedies and settlements of lawsuits or is it kind of specific just to fines?
+
+Richard Keith Palmer - Fiat Chrysler Automobiles NV
+
+It covers the items – the categories that you mentioned for any discussions we're currently in that we're aware of. Yes.
+
+George Galliers - EVERCORE ISI
+
+Great. Thank you very much.
+
+Operator
+
+Thank you. We'll now take our next question from Adam Jonas from Morgan Stanley. Please go ahead. Your line is open.
+
+Adam Michael Jonas - Morgan Stanley & Co. LLC
+
+All right. Thanks, everybody. First question on Santander. We understand discussions are ongoing, but can you provide any update or remind investors of your priorities on auto financing as a use of capital and if the Marelli transaction helps put FCA in a better position to negotiate.
+
+Michael Mark Manley - Fiat Chrysler Automobiles NV
+
+Hi, Adam. You're right. The discussions with Santander are ongoing. From a captive finco perspective, I'm a big advocate of it for many reasons and you've seen some of the contributions they've made to our peers. But we're looking at different options for us as a group at this moment in time. I don't see anything that I think is representative of good value for us, but we'll continue to look and we'll continue the discussions with Santander and see where they end up.
+
+What the Magneti Marelli transaction does for us apart from, as Richard said, improve our balance sheet, it gives us options, but we're still going to remain incredibly disciplined with capital. And when we see value, hopefully it will come at some point, we'll try and take advantage of it then.
+
+Adam Michael Jonas - Morgan Stanley & Co. LLC
+
+Okay. That's clear. And just a follow-up for any of you. How does FCA management view a potential merger with another auto manufacturer? Is that too radical of a step, is that something we can categorically remove from the lexicon now?
+
+Michael Mark Manley - Fiat Chrysler Automobiles NV
+
+Adam, as I said I think last quarter, I think we're now in a very – once this transaction closes, we're in a much stronger position than FCA has been in the past. We were confident in our five-year business plan that we laid out. We were confident that we could complete it as an independent. Closing this transaction, in my opinion, puts us in a much stronger position. So I think our aim is to complete that five-year plan, deliver our commitments as an independent.
+
+Adam Michael Jonas - Morgan Stanley & Co. LLC
+
+Understood. Thank you.
+
+Operator
+
+Thank you. We'll now take our next question from Brian Johnson from Barclays. Please go ahead. Your line is open.
+
+Brian A. Johnson - Barclays Capital, Inc.
+
+Yes. Thank you. I have a couple questions. First, drilling down into NAFTA. And apologize if you mentioned this in the walk. But last couple quarters, we had Ram launch costs. If we look at the industrial cost and the decrement quarter-over-quarter, can we assume that those are fully in the past?
+
+Richard Keith Palmer - Fiat Chrysler Automobiles NV
+
+Yeah. That was about €60 million in the quarter. So, basically, we're running – we're getting to the end of that process.
+
+Brian A. Johnson - Barclays Capital, Inc.
+
+Okay. And if you look at the...
+
+Richard Keith Palmer - Fiat Chrysler Automobiles NV
+
+...going into Q4.
+
+Brian A. Johnson - Barclays Capital, Inc.
+
+Great. And if you look at the sequential volume and mix, your volumes were actually down 3,000. So that's got to be all mix. The pricing is very positive. Just as we kind of look to 4Q, your guide obviously implies continued healthy NAFTA since not much else is improving.
+
+And then, as we roll into 2019, how much of this is early adopters going out and buying the highest mix Jeeps and the highest mix Rams versus repositioning those products at what should be stronger mix and stronger price points, or – and kind of the rest of the lineup, the refreshed Cherokee, et cetera, moving up in terms of mix and price?
+
+Michael Mark Manley - Fiat Chrysler Automobiles NV
+
+This is Mike. I think that what we're seeing actually is the strategy that we put in place beginning to play out in the marketplace. Our average transaction price now on Light Duty is up significantly and it's been stable for the last few months, which suggests that, in my mind, we are gaining share in the right parts of the segment, which is exactly what we wanted to do.
+
+In terms of how we progress next year in our margins, remember, one of the points I didn't touch on earlier is that very early next year, we launch our all-new Heavy Duty. Today, we have the oldest Heavy Duty out there. And the new Heavy Duty is equally equipped to be a segment leader in my opinion. So I think that we're seeing a permanent improvement in our transaction prices. Obviously, it may be moderated somewhat, but then it will be bolstered by Heavy Duty coming into the market and those early adopters for that driving our transaction prices up as well.
+
+Brian A. Johnson - Barclays Capital, Inc.
+
+Okay. And second question is around Magneti Marelli, couple questions. One, is there – you mentioned arm's length agreement, but is there any price increase or any pressure on cost to sort of help the new buyer out that's included in the supply agreement? Or are there any downside protections or volume guarantees that were provided to the financial buyer?
+
+Michael Mark Manley - Fiat Chrysler Automobiles NV
+
+No.
+
+Brian A. Johnson - Barclays Capital, Inc.
+
+Okay. And then, I don't know if you want to comment on this, but it strikes us as a multiple well above the multiples prevailing in the European and U.S. auto parts sector. Any kind of color on how you got such great proceeds from this?
+
+Michael Mark Manley - Fiat Chrysler Automobiles NV
+
+I think we're obviously happy with the terms of the transaction and the buyer is happy with the terms of the transaction or it wouldn't have happened.
+
+Brian A. Johnson - Barclays Capital, Inc.
+
+Okay. Thanks.
+
+Operator
+
+We'll now take our next question from Thomas Besson from Kepler. Please go ahead. Your line is open.
+
+Thomas Besson - Kepler Cheuvreux SA
+
+Thank you very much. It's Thomas Besson with Kepler Cheuvreux. I have two questions, please. Can you please say a few words about the two remaining non-core assets you have and whether the plan is to, at one point, either lease them or sell them?
+
+And the second question on the pension contributions and their impact on the tax rate, can you be more specific on how much you plan to spend exactly on 2018 and 2019 and what it would mean for the tax rate for those years, please?
+
+Michael Mark Manley - Fiat Chrysler Automobiles NV
+
+Yeah. Hi, Thomas. This is Mike. Teksid and Comau are now being realigned into our manufacturing organization. I think when we look at both of those businesses, there are many things that we can we can do to develop them. That's what our intention is and, obviously, as those businesses get stronger, you have options. But, as we sit here today, that's what we intend to do is to – they're already realigned and now just work on the development of them and we'll see what happens in the future.
+
+Richard Keith Palmer - Fiat Chrysler Automobiles NV
+
+Thomas, on the pension contribution question, I didn't really understand the question. Could you repeat?
+
+Thomas Besson - Kepler Cheuvreux SA
+
+Sure. My question was how much did you or do you plan to spend on that in 2018 and in 2019, if you plan to use more of the net proceeds of the Magneti Marelli transaction on that and what does it – what is the implication for the group tax rate in 2018 and 2019, please?
+
+Richard Keith Palmer - Fiat Chrysler Automobiles NV
+
+In 2018, there was the benefit of the delta tax rate because this was deductible in our 2017 return, and so there's an impact of about €100 million benefit on that contribution compared to the tax rate we would have been running at for 2018. There's no impact in 2019. And we don't imagine making any – using funds from the Marelli transaction for further pension contributions at this stage, but we'll obviously we'll see going forward how we manage that.
+
+Thomas Besson - Kepler Cheuvreux SA
+
+Great. Thank you very much.
+
+Michael Mark Manley - Fiat Chrysler Automobiles NV
+
+Thank you.
+
+Operator
+
+We'll now take our next question from Dominic O'Brien from Exane. Please go ahead. Your line is open.
+
+Dominic O'Brien - Exane Ltd.
+
+Hi, there. Thanks for taking my questions. Just two on NAFTA. The first one, at the Q2 results, you said that you targeted selling 100,000 extra pickup trucks in NAFTA in H2 versus H1. Do you still stick to that guidance and how did Q3 progress on that front?
+
+The second question on NAFTA was really to ask the product question in a slightly different way. Just from the capacity realignment perspective and the product cadence perspective, should EBIT in NAFTA be higher in 2019 versus 2018 or is 2018 really to be viewed as the peak of the realignment plan?
+
+Richard Keith Palmer - Fiat Chrysler Automobiles NV
+
+I think there's a few impacts. Obviously, as Mike mentioned, the important product news for NAFTA in 2019, which is additive to the current lineup, is the new Heavy Duty truck and the new Jeep pickup truck. So, those I would imagine would be additive to our margins on an average basis. It's also true that this year we've been running at significant levels of Light Duty trucks because we ran in the first half of the year.
+
+And also for the Wrangler, we ran the Classic and the new product. So there'll be some level of offset. So, I think we need to manage that going into next year, particularly for Light Duty, and we'll give you a better view on that, I think, as we give the guidance for 2019. But, clearly, we have some positive product news for NAFTA in 2019 which would be margin accretive.
+
+Michael Mark Manley - Fiat Chrysler Automobiles NV
+
+In terms of sales on the truck, I think Q2 was around 150,000; Q3 around 160,000. So we continue to grow our volume, grow our share. So, far this month, it looks as if we'll continue to do that. I think the forecast that we have today is, again, a very positive one for this month.
+
+So I think we're making progress. In fact, one of the areas, which you know, we deliberately starved our product with some of our other markets and some of our fleet channels. And that will continue really until we get into 2019 and then we'll be able to open those up and get further growth there.
+
+Dominic O'Brien - Exane Ltd.
+
+Okay. Thank you. And just quick one – a quick follow-up on the your net debt guidance. Just my understanding, the production realignment you refer to, is that essentially just lowering production in EMEA to normalize the inventory level and hence there's a working capital outflow or have I understood that incorrectly?
+
+Richard Keith Palmer - Fiat Chrysler Automobiles NV
+
+Yeah, effectively, it's moderating production for that reason.
+
+Dominic O'Brien - Exane Ltd.
+
+Great. Thank you very much.
+
+Operator
+
+We'll now take our next question from Monica Bosio from Intesa Sanpaolo Banca. Please go ahead. Your line is open.
+
+Monica Bosio - Intesa Sanpaolo SpA
+
+Good afternoon, everyone. I would have three questions. The first one is a follow-up on EMEA. I understood that inventories are expected to slow down and to normalize in the last quarter. I'm just wondering should, in any case, expect a still negative pricing impact and a sort of cash burning from EMEA in the last quarter?
+
+The second question is on Maserati. It's a similar question. It's on the volume slowdown. I can imagine that the last quarter would be similar to the third quarter given that China is the main contributor to the slowdown of the volume. Can you just give me a check on this and maybe some color on what you expect for Maserati in 2019?
+
+And the very last question is a more general question on the raw material. Can you just give a rough indication of the impact of the higher raw material costs for 2018? If I remember well, you have added contract on the raw materials that are going to expire in this year and I'm just wondering what we can figure out for the next year in terms of higher impact from raw materials given that the steel price is increasing and, if I'm not wrong, also the plastic. Thank you very much.
+
+Michael Mark Manley - Fiat Chrysler Automobiles NV
+
+Yeah, Monica. This is Mike. I'm going to answer the Maserati question first. Obviously, the conditions in China market aren't helping. As you know, with Maserati, China accounts were around 50%, maybe just over 50% of Maserati's profit comes from one market. But I think, with hindsight, when we put Maserati and Alfa together, it did two things. Firstly, it reduced the focus on Maserati the brand. And secondly, Maserati was treated for a period of time almost as if it was a mass market brand which it isn't and shouldn't be treated that way.
+
+So, what we've now done is really purify the focus on the brand, split it from Alfa as you know, put Harald Wester in charge. And Harald has a good understanding of the luxury segment and a deep understanding of Maserati as a brand. That will be followed by some further actions that we're going to take in the fourth quarter. And I think, for me, when I look at Maserati's performance, it's not so much a product issue, but more a management and focus issue. So I think we've had those things addressed. The product remains competitive. In fact, the Levante just won a Texas SUV of the Year Award and that's highly competitive.
+
+So, I think it would take at least two quarters as I said in my opening statements to sort through some of the channel issues, but I am expecting Harald and his new team to make some significant progress with Maserati as we get into the second half of 2019.
+
+Monica Bosio - Intesa Sanpaolo SpA
+
+Thank you.
+
+Richard Keith Palmer - Fiat Chrysler Automobiles NV
+
+Hello, Monica. It's Richard. On the EMEA pricing, I think as Mike mentioned earlier, clearly, it's a big focus for us to improve our price positions and our mix in EMEA. And also given we also had some negative impacts on WLTP in Q3, I think sequentially, we would expect to see some improvement in Q4.
+
+I don't think necessarily that will be positive year-over-year because the team has just started its work to really focus on pricing and mix and I think we expect that to improve over the next few quarters, but we can't expect miracles immediately. So we'll keep you posted on that as we look at the guidance also for 2019.
+
+And then the question on raw materials, this year, we have a negative impact of about €850 million year-over-year for commodity prices. That includes significant impact for both steel and aluminum. I think our current outlook going into 2019 is for a similar number overall. The composition will be different because we do expect steel to be more year-over-year and aluminum to be less based on current prices we're seeing.
+
+We're in the process of negotiating those contracts and so, obviously, they're not all fixed today as they were last time we spoke about this for 2018. But, overall, I don't think we're seeing anything significantly different from a total basis year-over-year.
+
+Monica Bosio - Intesa Sanpaolo SpA
+
+Okay. Very clear. Thank you very much.
+
+Michael Mark Manley - Fiat Chrysler Automobiles NV
+
+Thank you.
+
+Operator
+
+We'll now take our next question from John Murphy from Bank of America. Please go ahead. Your line is open.
+
+John Murphy - Bank of America Merrill Lynch
+
+All right. Good afternoon, guys. Just a first question on the $2 billion earmarked dividend post the Magneti proceeds. What's the rush to identify something like that and push that kind of cash out? There's a lot of uncertainty on the cycle on investment. You guys are just kind of talking about maybe thrifting CapEx. It just seems like a sort of a call from an overzealous banker that's pushing for a capital deployment here. I'm just curious how certain that is and what the motivation is there.
+
+Richard Keith Palmer - Fiat Chrysler Automobiles NV
+
+Hi, John. We definitely had some overzealous bankers around, but we don't listen to them necessarily. In this case, I think we have a clear plan to execute on that we presented to you in June. I think, obviously, we have some of the businesses are doing better and some of that need some attention towards the planned targets, but I think overall we're pretty confident on our business plan at the moment.
+
+The cash generation for this year has been strong. We expect to have positive cash generation also next year notwithstanding that we will have a higher CapEx as you know. And I think we just feel that, in terms of shareholders, we've had a very loyal bunch of shareholders. They haven't had remuneration in the recent past. And given the proceeds and given the solidity of our balance sheet, we think we can definitely afford to give them some recognition and some remuneration at closing of the transaction.
+
+So, clearly, we're waiting for the funds to come in before we do anything as we are prudent, but I think we have a good overall liquidity position, the remaining funds will add to that. And we think that's more than adequate to manage the business going into the next few years. And clearly, we're focused on the investment grade, as I mentioned earlier, which is important too.
+
+John Murphy - Bank of America Merrill Lynch
+
+And if we saw business conditions deteriorate meaningfully over the next 6 to 12 months, could this be something that is rethought? And is the board really on board, no pun intended, with this?
+
+Michael Mark Manley - Fiat Chrysler Automobiles NV
+
+As we said, the board is obviously on board. But it is, as we pointed out, subject to shareholder and board formal approval. Obviously, we won't get the funds until probably end of second quarter 2019. So we're not expecting a significant or material deterioration in business conditions, but if that happens, then obviously we will look at it.
+
+This is a firm commitment based upon, I think as Richard said, our shareholders were expecting to get value for Magneti Marelli if it was in a spin. They're getting value form this. But what we've also done is look very long at our balance sheet to make sure that we address one of the weaknesses that's been associated with us since 2009 and that is the strength of the balance sheet and our liquidity. This will put us on our peers and above a number of them. So, I think that's why we try to take a balanced approach.
+
+John Murphy - Bank of America Merrill Lynch
+
+Okay. And then just a second question, Mike, particularly because given your experience or deep experience in Jeep, when we think about the Wrangler, what do you think the sustainable volumes are there just given the increase in capacity, and then also what is maybe for the first time in a long time, you may agree or may disagree with this, the first time in a long time a credible competitor coming on the horizon in 2020 with Ford Bronco?
+
+Michael Mark Manley - Fiat Chrysler Automobiles NV
+
+I think that, for me, the volumes that we're seeing now, I believe, are going to be sustainable into the future for two reasons. Firstly, even if you see a mitigation in Wrangler volumes in the U.S., what we haven't done is fully open up to our international markets. We deliberately allowed the U.S., Canada, to some extent, Mexico, to a lesser extent, to be first really for this. So, now, we're just opening up to our other markets.
+
+I think the dynamic that we'll create next year when we launch the Wrangler pickup truck, which you know is planned second quarter next year, that dynamic is going to be interesting for us to watch because there are many Wrangler buyers, I think, that have indicated, yes, I would look at the pickup truck in my fleet instead of Wrangler, but we've built all of that in terms of our flexibility that we could do between our two plants when we agreed that investment.
+
+So international markets will be opened up. That will underwrite Wrangler volumes. Truck will come on stream and I think we've got the flexibility we need. And Wrangler pickup truck, it's whitespace for us, and it's a segment that has grown significantly, so very much looking forward to seeing that vehicle in that market.
+
+John Murphy - Bank of America Merrill Lynch
+
+And Mike, would you pin that against other mid-sized pickups or is this really a specialty pickup in your mind?
+
+Michael Mark Manley - Fiat Chrysler Automobiles NV
+
+There's no doubt its more lifestyle. It's very capable. But there's no doubt its more lifestyle as our brand is. One of the things that is part of the strength of Jeep is that it is lifestyle. It's a spirit. So it is more focused on lifestyle, but a vast proportion of that segment and the growth in that segment is also lifestyle, particularly given the low-end of the light-duty segment, if you're looking for capability, many people would step up to that.
+
+So, I think it will be very competitive. It's a product that people have been waiting for, for a long time. And I think because of that they will wait for it to get into full production. We're going to launch – we're going to show it, by the way, in Los Angeles at end of this month, end of next month. So, you'll see it there.
+
+John Murphy - Bank of America Merrill Lynch
+
+Okay. And then just lastly real quickly, what was the LTM EBITDA for Magneti Marelli?
+
+Richard Keith Palmer - Fiat Chrysler Automobiles NV
+
+The EBITDA for Magneti Marelli for this year is about €930 million.
+
+John Murphy - Bank of America Merrill Lynch
+
+Okay. That's very helpful. Thank you so much, guys.
+
+Operator
+
+Okay. Thank you. We'll now take our next question from Martino De Ambroggi from Equita. Please go ahead. Your line is open.
+
+Martino De Ambroggi - Equita SIM SpA
+
+Thank you. Good afternoon. Good morning, everybody. On CapEx, in the cumulative figures for the nine months is €4.2 billion. This implies a big jump in Q4, much higher than last year. So, are you still implying €7.5 billion for the full year guidance? The first question.
+
+The second is on Maserati, a follow-up. You had a 14% return on sales target for the current year and 15% in the long term. Could you share with us if – I clearly understand all the reasons you explained, but could you share with us if there is a new normalized profitability for Maserati in your mind? And still on the luxury, basically, no word on Alfa Romeo. I don't know if you can just give a rough idea what is the contribution in the current year guidance.
+
+Richard Keith Palmer - Fiat Chrysler Automobiles NV
+
+First question, the CapEx I think will be around €7 billion, maybe even a touch lower for the year. And clearly, the important thing is I think that we're up to a run rate again. So, clearly, we have had some timing changes in the programs, but in Q4, we'll be back up to where we would expect to be on a sort of a normal run rate going into 2019.
+
+Martino De Ambroggi - Equita SIM SpA
+
+Okay. So, it's just postponement, you would recover...
+
+Michael Mark Manley - Fiat Chrysler Automobiles NV
+
+On Alfa Romeo. Alfa Romeo is not making a – sorry, say again.
+
+Martino De Ambroggi - Equita SIM SpA
+
+Sorry. On CapEx, it's just a matter of postponement. So, the €0.5 billion lower CapEx this year will be postponed to next year, nothing else?
+
+Richard Keith Palmer - Fiat Chrysler Automobiles NV
+
+Yeah.
+
+Martino De Ambroggi - Equita SIM SpA
+
+Okay.
+
+Michael Mark Manley - Fiat Chrysler Automobiles NV
+
+Let me quickly deal with Maserati. The margin target, as you said, was 15% in 2022. I have no reason to believe that Maserati can't achieve that with what I'm seeing today. In terms of Alfa, Alfa does not make a contribution in our performance this year. We are seeing what I think is some good improvement with Alfa.
+
+If you look at its volume improvement year-over-year in the three regions that it operates in, on average, I think it's about 20% up so far. And that volume, even though we're seeing good growth, I still need that volume to grow. So, Alfa, as we get into next year, will have a significant interior refresh and I think that will just build on the volume improvement we're seeing this year, but it's not making a contribution in 2018.
+
+Martino De Ambroggi - Equita SIM SpA
+
+Okay. If I may, last question, maybe quite difficult or impossible, but what is the sensitivity in terms of EBIT and in terms of cash flow in case of roughly 5%, 10% decline in volumes as you prefer if you have a rule of thumb for declining volumes?
+
+Richard Keith Palmer - Fiat Chrysler Automobiles NV
+
+No. I don't think that I can really answer that question and be helpful because obviously it depends on the mix in particular largely. And I think what's important for us is the – obviously, for that type of reduction, we could clearly manage with cost actions. So I don't see that would be a significant impact at all.
+
+Martino De Ambroggi - Equita SIM SpA
+
+Okay. Thank you.
+
+Operator
+
+We'll now take our final question from José Asumendi from JPMorgan. Please go ahead. Your line is open.
+
+José M. Asumendi - JPMorgan Securities Plc
+
+Yeah. Thanks so much. Just a couple of questions, please. First one on Europe for Mike. Do you mind maybe sharing your longer-term plans for the region? Are you happy with the current margin structure? Do you think you need to do any changes on the cost structure or product cycle for that matter?
+
+And second for Richard. Working capital assumptions for the fourth quarter, can you help us a little bit around receivables, payables and inventories. What are your best assumptions now for the fourth quarter which should tie up with your cash guidance for the year, please? Thank you.
+
+Michael Mark Manley - Fiat Chrysler Automobiles NV
+
+Yeah, José, it's Mike. No, I'm not happy with what I see in EMEA, notwithstanding the fourth quarter. As you know, our margins – notwithstanding the third quarter rather – our margins before that were around, I don't know, 2.8%, 3% margins. We know that some of our peers are getting more than 6% in the region. I think we have a good understanding of what we need to do to deliver that.
+
+And I'll just quickly click down and let me know if it answers your questions. One of the things that I think we have the benefit of is the brands and I think our brand positioning needs to be clarified. That work is now done and I'm talking about the part of the segment that they play in. Because that's done, I think we can now truly focus on our pricing and our average transaction price because we've got a much clearer picture now of the competitors that we need to be going after.
+
+So I think that there is, for sure, pricing opportunity particularly with the product refreshes that we've got. Our channel mix in Europe, as you know, has often been our weakness in the past. It will take us a little while to make permanent adjustments to that and you may see some volume impact, but the quality of our margins will improve as a result of doing that. And that's something that Pietro and the team are already focused on.
+
+From a cost point of view, clearly, if you can combine margin improvement with a cost point of view – with an improved cost base, then for me, we can get margins that grow fairly significantly. And one of the big focuses for us in the area is to drive our margins up particularly as we get closer to 2021 and higher levels of electrification.
+
+So I think we have the right team in place. I think we have the right understanding of the things that we need to do. Some of those actions are quicker than others. But all of them now are in focus and underway. And I'll hand it to Richard for the second part of the question.
+
+Richard Keith Palmer - Fiat Chrysler Automobiles NV
+
+So, on working capital, we're looking at a positive impact in working capital in Q4 of about €1 billion. And that's really – the main effects are, obviously, normal seasonality in EMEA as we come out of the summer shutdown and the payables go down as we produce into Q4. And also reduction in inventory. We're very focused on reducing our inventory levels.
+
+We talked about that a little bit also on used cars for EMEA, but also for other regions, we're looking at our property stock very hard. And also normally, in NAFTA, we get a reduction in inventory going into Q4 as well as we have the plants go down in the end of the year. So those items will create that. It's a similar level as Q4 of last year in terms of positive working capital, so we're not being overly optimistic, I don't think, in our forecast regarding working capital.
+
+José M. Asumendi - JPMorgan Securities Plc
+
+Got it. Thank you.
+
+Michael Mark Manley - Fiat Chrysler Automobiles NV
+
+Thank you, José.
+
+Operator
+
+That will conclude the question-and-answer session for today. I would now like to turn the call back over to Mr. Joe Veltri for any additional or closing remarks.
+
+Joseph Veltri - Fiat Chrysler Automobiles NV
+
+Thank you, Simon, for handling that. And before we close, I'd like to turn it back over to Mike for some closing comments.
+
+[06VZ1Y-E Michael Mark Manley]
+
+Yeah. Again, I just like thank everybody for joining us. Just in summary, as we have said, we had a strong operating performance in the quarter. I think it could be better and will be better going forward when we take the actions that we've briefly discussed in terms of our regions and the Maserati brand.
+
+Just want to reemphasize the point that when the Magneti Marelli deal closes, it really does address one of the weaknesses that's been perceived for the group and, clearly, that's our balance sheet. And as it closes, we will be in a position where, for the first time, we're on level with our peers and, for me, that's really important because it means we do go into the balance of our five-year plan in a stronger position than we've been in the past.
+
+And I think that plan, as I said before, is solid and everybody here is focused on the achievement of it. So, thank you again for your time and we will see you probably in the next quarter.
+
+Joseph Veltri - Fiat Chrysler Automobiles NV
+
+Thank you, Mike. With that, we will end today's call. I'd like to, again, thank everybody for joining us, and have a pleasant day.
+
+Operator
+
+That will conclude today's conference call. Thank you for your participation, ladies and gentlemen. You may now disconnect.
