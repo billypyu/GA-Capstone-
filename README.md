@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Problem Statement:
 By analyzing the earning call transcripts, would classification model provide value for speculative investors to trade next day in the U.S. automobile companies?
 
@@ -79,6 +78,3 @@ By analyzing the earning call transcripts, would the classification model provid
 2.	Neural network does not provide value to improve accuracy; also, lack of interpretation may make neural network not suitable for majority of investors. 
 3.	Try to make more classes: ideal candidates could be market is up, down, flat. Alternative classification could be negative or positive value with a discrete range of 0-10%, 10-20%, 30-40%, 50% or above. After all, survey what is the probability of each prediction. 
 
-
->>>>>>> db3e1599c43a0c9e54bb4a99099bd51db99645fd
-# GA-Capstone-
