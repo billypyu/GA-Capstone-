@@ -2,7 +2,7 @@
 By analyzing the earning call transcripts, would classification model provide value for speculative investors to trade next day in the U.S. automobile companies?
 
 ## Data
-- 61 conference call transcripts was obtained from 2014 Q1 to 2019 Q1
+- 61 conference call transcripts were obtained from 2014 Q1 to 2019 Q1
 1. Text sources: Earning call transcripts in the major automobile maker such as Ford,General Motors, Tesla, Fiat Chrysler are retrieved from seekingalpha.com with essential
 subscription.
 2. Numerical sources: Stock price and volumes are retrieved from Yahoo Finance
